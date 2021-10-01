@@ -1,0 +1,287 @@
+
+# Baixando:
+wget https://downloads.apache.org/hbase/2.3.6/hbase-2.3.6-bin.tar.gz
+
+# Descompactando
+sudo tart xzv hbase-2.3.6-bin.tar.gz
+
+# editar hbase-env.sh
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre
+
+
+--
+# editar: ~/.bashrc
+
+
+sudo vim ~/.bashrc
+
+# Inserir:
+export HBASE_HOME=/home/azureuser/hbase-2.3.6
+export PATH= $PATH:$HBASE_HOME/bin
+
+--
+
+# Editar: hbase-site.xml
+
+# pasta /conf
+
+sudo vim hbase-site.xml
+
+# Adicionar:
+
+  <property>
+    <name>hbase.rootdir</name>
+    <value>file:///home/azureuser/HBASE/hbase</value>
+  </property>
+  <property>
+    <name>hbase.zookeeper.property.dataDir</name>
+    <value>/home/azureuser/HBASE/zookeeper</value>
+  </property>
+
+----
+# Pasta:
+azureuser@Docker01:~/hbase-2.3.6$
+
+# iniciando o hbase:
+sudo bin/hbase-start.sh
+
+# acessando o shell do hbase:
+bin/hbase shell
+
+
+-----
+
+
+azureuser@Docker01:~/hbase-2.3.6$ bin/hbase shell
+2021-10-01 21:10:35,301 WARN  [main] util.NativeCodeLoader: Unable to load native-hado
+HBase Shell
+Use "help" to get list of supported commands.
+Use "exit" to quit this interactive shell.
+For Reference, please visit: http://hbase.apache.org/2.0/book.html#shell
+Version 2.3.6, r7414579f2620fca6b75146c29ab2726fc4643ac9, Wed Jul 28 22:24:42 UTC 2021
+Took 0.0037 seconds
+hbase(main):001:0> 
+-----
+
+hbase(main):001:0> list
+TABLE
+0 row(s)
+Took 0.9001 seconds
+=> []
+hbase(main):002:0>
+
+---
+
+No hadoop, em caso de erros no hbase shell, realizar o reset:
+
+sudo -u hdfs hadoop fsck / | egrep -v '^\.+$' | grep -v eplica
+
+# faz um 'fdisk' no sistema de arquivos. verifica arquivos corrompidos. ou sai do modo seguro ou apaga os arquivos.
+
+# para apagar os arquivos, um por um
+sudo -u hdfs dfs -rm NomeDoArquivo
+
+------
+
+
+
+hbase(main):001:0> create 'funcionario', 'pessoais', 'profissionais'
+Created table funcionario
+Took 1.8277 seconds
+=> Hbase::Table - funcionario
+hbase(main):002:0> put 'funcionario', '1', 'pessoais:nome', 'Maria'
+Took 0.3771 seconds
+hbase(main):003:0> scan 'funcionario'
+ROW                    COLUMN+CELL
+ 1                     column=pessoais:nome, timestamp=2021-10-01T21:38:51.333, value=
+                       Maria
+1 row(s)
+Took 0.0760 seconds
+hbase(main):004:0> put 'funcionario', '1', 'pessoais:cidade', 'Sao Paulo'
+Took 0.0136 seconds
+hbase(main):005:0> scan 'funcionario'
+ROW                    COLUMN+CELL
+ 1                     column=pessoais:cidade, timestamp=2021-10-01T21:40:38.671, valu
+                       e=Sao Paulo
+ 1                     column=pessoais:nome, timestamp=2021-10-01T21:38:51.333, value=
+                       Maria
+1 row(s)
+Took 0.0115 seconds
+hbase(main):006:0> put 'funcionario', '2', 'profissionais:empresa', 'Everis'
+Took 0.0478 seconds
+hbase(main):007:0> scan 'funcionario'
+ROW                    COLUMN+CELL
+ 1                     column=pessoais:cidade, timestamp=2021-10-01T21:40:38.671, valu
+                       e=Sao Paulo
+ 1                     column=pessoais:nome, timestamp=2021-10-01T21:38:51.333, value=
+                       Maria
+ 2                     column=profissionais:empresa, timestamp=2021-10-01T21:43:16.462
+                       , value=Everis
+2 row(s)
+Took 0.0164 seconds
+hbase(main):008:0> disable 'funcionario'
+Took 0.4231 seconds
+hbase(main):009:0> alter 'funcionario', NAME=>'hobby', VERSIONS=>5
+Updating all regions with the new schema...
+All regions updated.
+Done.
+Took 1.3764 seconds
+hbase(main):010:0> enable 'funcioario'
+
+ERROR: Table funcioario does not exist.
+
+For usage try 'help "enable"'
+
+Took 0.0283 seconds
+hbase(main):011:0> enable 'funcionario'
+Took 0.6916 seconds
+hbase(main):012:0> scan 'funcionario'
+ROW                    COLUMN+CELL
+ 1                     column=pessoais:cidade, timestamp=2021-10-01T21:40:38.671, valu
+                       e=Sao Paulo
+ 1                     column=pessoais:nome, timestamp=2021-10-01T21:38:51.333, value=
+                       Maria
+ 2                     column=profissionais:empresa, timestamp=2021-10-01T21:43:16.462
+                       , value=Everis
+2 row(s)
+Took 0.0169 seconds
+hbase(main):013:0> put 'funcionario', '1', 'hobby:nome', 'Ler livros'
+Took 0.0397 seconds
+hbase(main):014:0> put 'funcionario', '1', 'hobby:nome', 'Pescar'
+Took 0.0098 seconds
+hbase(main):015:0> scan 'funcionario'
+ROW                    COLUMN+CELL
+ 1                     column=hobby:nome, timestamp=2021-10-01T21:47:21.395, value=Pes
+                       car
+ 1                     column=pessoais:cidade, timestamp=2021-10-01T21:40:38.671, valu
+                       e=Sao Paulo
+ 1                     column=pessoais:nome, timestamp=2021-10-01T21:38:51.333, value=
+                       Maria
+ 2                     column=profissionais:empresa, timestamp=2021-10-01T21:43:16.462
+                       , value=Everis
+2 row(s)
+Took 0.0171 seconds
+hbase(main):016:0> scan 'funcionario', {VERSIONS=>3}
+ROW                    COLUMN+CELL
+ 1                     column=hobby:nome, timestamp=2021-10-01T21:47:21.395, value=Pes
+                       car
+ 1                     column=hobby:nome, timestamp=2021-10-01T21:47:12.846, value=Ler
+                        livros
+ 1                     column=pessoais:cidade, timestamp=2021-10-01T21:40:38.671, valu
+                       e=Sao Paulo
+ 1                     column=pessoais:nome, timestamp=2021-10-01T21:38:51.333, value=
+                       Maria
+ 2                     column=profissionais:empresa, timestamp=2021-10-01T21:43:16.462
+                       , value=Everis
+2 row(s)
+Took 0.0539 seconds
+hbase(main):017:0> count 'funcionario'
+2 row(s)
+Took 0.0678 seconds
+=> 2
+hbase(main):018:0> scan 'funcionario'
+ROW                    COLUMN+CELL
+ 1                     column=hobby:nome, timestamp=2021-10-01T21:47:21.395, value=Pes
+                       car
+ 1                     column=pessoais:cidade, timestamp=2021-10-01T21:40:38.671, valu
+                       e=Sao Paulo
+ 1                     column=pessoais:nome, timestamp=2021-10-01T21:38:51.333, value=
+                       Maria
+ 2                     column=profissionais:empresa, timestamp=2021-10-01T21:43:16.462
+                       , value=Everis
+2 row(s)
+Took 0.0169 seconds
+hbase(main):019:0> delete 'funcionario', '1', 'hobby:nome'
+Took 0.0294 seconds
+hbase(main):020:0> scan 'funcionario'
+ROW                    COLUMN+CELL
+ 1                     column=hobby:nome, timestamp=2021-10-01T21:47:12.846, value=Ler
+                        livros
+ 1                     column=pessoais:cidade, timestamp=2021-10-01T21:40:38.671, valu
+                       e=Sao Paulo
+ 1                     column=pessoais:nome, timestamp=2021-10-01T21:38:51.333, value=
+                       Maria
+ 2                     column=profissionais:empresa, timestamp=2021-10-01T21:43:16.462
+                       , value=Everis
+2 row(s)
+Took 0.0251 seconds
+hbase(main):021:0> delete 'funcionario', '1', 'hobby:nome'
+Took 0.0054 seconds
+hbase(main):022:0> scan 'funcionario'
+ROW                    COLUMN+CELL
+ 1                     column=pessoais:cidade, timestamp=2021-10-01T21:40:38.671, valu
+                       e=Sao Paulo
+ 1                     column=pessoais:nome, timestamp=2021-10-01T21:38:51.333, value=
+                       Maria
+ 2                     column=profissionais:empresa, timestamp=2021-10-01T21:43:16.462
+                       , value=Everis
+2 row(s)
+Took 0.0100 seconds
+hbase(main):023:0> create 'ttl_exemplo', {'NAME'=>'cf', 'TTL' => 20}
+Created table ttl_exemplo
+Took 0.6355 seconds
+=> Hbase::Table - ttl_exemplo
+hbase(main):024:0> put 'ttl_exemplo', 'linha123', 'cf:desc', 'TTL Exemplo'
+Took 0.0535 seconds
+hbase(main):025:0> scan 'ttl_exemplo'
+ROW                    COLUMN+CELL
+ linha123              column=cf:desc, timestamp=2021-10-01T21:55:59.776, value=TTL Ex
+                       emplo
+1 row(s)
+Took 0.0094 seconds
+hbase(main):026:0>
+hbase(main):027:0* scan 'ttl_exemplo'
+ROW                    COLUMN+CELL
+ linha123              column=cf:desc, timestamp=2021-10-01T21:55:59.776, value=TTL Ex
+                       emplo
+1 row(s)
+Took 0.0047 seconds
+hbase(main):028:0> scan 'ttl_exemplo'
+ROW                    COLUMN+CELL
+0 row(s)
+Took 0.0077 seconds
+hbase(main):029:0> list
+TABLE
+funcionario
+ttl_exemplo
+2 row(s)
+Took 0.0305 seconds
+=> ["funcionario", "ttl_exemplo"]
+hbase(main):030:0>
+
+
+---
+
+
+ bin/hbase org.apache.hadoop.hbase.mapreduce.Export "funcionario" "/home/azureuser/a/"
+
+azureuser@Docker01:~$ cd a
+azureuser@Docker01:~/a$ ls
+part-m-00000  _SUCCESS
+azureuser@Docker01:~/a$
+
+
+
+
+
+---
+Referencias:
+
+https://hbase.apache.org/
+https://www.guru99.com/hbase-installation-guide.html
+https://dzone.com/articles/hbase-a-hadoop-nosql-database-backup-process-expla
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
