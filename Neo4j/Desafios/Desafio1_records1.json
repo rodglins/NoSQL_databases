@@ -1,0 +1,896 @@
+﻿[
+  {
+    "Pais": "Finland",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Denmark",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Switzerland",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Iceland",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Netherlands",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Norway",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Sweden",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Luxembourg",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "New Zealand",
+    "Regioes": [
+      "North America and ANZ"
+    ]
+  },
+  {
+    "Pais": "Austria",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Australia",
+    "Regioes": [
+      "North America and ANZ"
+    ]
+  },
+  {
+    "Pais": "Israel",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Germany",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Canada",
+    "Regioes": [
+      "North America and ANZ"
+    ]
+  },
+  {
+    "Pais": "Ireland",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Costa Rica",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "United Kingdom",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Czech Republic",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "United States",
+    "Regioes": [
+      "North America and ANZ"
+    ]
+  },
+  {
+    "Pais": "Belgium",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "France",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Bahrain",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Malta",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Taiwan Province of China",
+    "Regioes": [
+      "East Asia"
+    ]
+  },
+  {
+    "Pais": "United Arab Emirates",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Saudi Arabia",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Spain",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Italy",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Slovenia",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Guatemala",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Uruguay",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Singapore",
+    "Regioes": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Pais": "Kosovo",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Slovakia",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Brazil",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Mexico",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Jamaica",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Lithuania",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Cyprus",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Estonia",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Panama",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Uzbekistan",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Chile",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Poland",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Kazakhstan",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Romania",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Kuwait",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Serbia",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "El Salvador",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Mauritius",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Latvia",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Colombia",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Hungary",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Thailand",
+    "Regioes": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Pais": "Nicaragua",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Japan",
+    "Regioes": [
+      "East Asia"
+    ]
+  },
+  {
+    "Pais": "Argentina",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Portugal",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Honduras",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Croatia",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Philippines",
+    "Regioes": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Pais": "South Korea",
+    "Regioes": [
+      "East Asia"
+    ]
+  },
+  {
+    "Pais": "Peru",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Bosnia and Herzegovina",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Moldova",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Ecuador",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Kyrgyzstan",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Greece",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Bolivia",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Mongolia",
+    "Regioes": [
+      "East Asia"
+    ]
+  },
+  {
+    "Pais": "Paraguay",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Montenegro",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Dominican Republic",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "North Cyprus",
+    "Regioes": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Pais": "Belarus",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Russia",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Hong Kong S.A.R. of China",
+    "Regioes": [
+      "East Asia"
+    ]
+  },
+  {
+    "Pais": "Tajikistan",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Vietnam",
+    "Regioes": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Pais": "Libya",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Malaysia",
+    "Regioes": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Pais": "Indonesia",
+    "Regioes": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Pais": "Congo (Brazzaville)",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "China",
+    "Regioes": [
+      "East Asia"
+    ]
+  },
+  {
+    "Pais": "Ivory Coast",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Armenia",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Nepal",
+    "Regioes": [
+      "South Asia"
+    ]
+  },
+  {
+    "Pais": "Bulgaria",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Maldives",
+    "Regioes": [
+      "South Asia"
+    ]
+  },
+  {
+    "Pais": "Azerbaijan",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Cameroon",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Senegal",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Albania",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "North Macedonia",
+    "Regioes": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Pais": "Ghana",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Niger",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Turkmenistan",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Gambia",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Benin",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Laos",
+    "Regioes": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Pais": "Bangladesh",
+    "Regioes": [
+      "South Asia"
+    ]
+  },
+  {
+    "Pais": "Guinea",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "South Africa",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Turkey",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Pakistan",
+    "Regioes": [
+      "South Asia"
+    ]
+  },
+  {
+    "Pais": "Morocco",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Venezuela",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Georgia",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Algeria",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Ukraine",
+    "Regioes": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Pais": "Iraq",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Gabon",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Burkina Faso",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Cambodia",
+    "Regioes": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Pais": "Mozambique",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Nigeria",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Mali",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Iran",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Uganda",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Liberia",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Kenya",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Tunisia",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Lebanon",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Namibia",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Palestinian Territories",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Myanmar",
+    "Regioes": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Pais": "Jordan",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Chad",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Sri Lanka",
+    "Regioes": [
+      "South Asia"
+    ]
+  },
+  {
+    "Pais": "Swaziland",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Comoros",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Egypt",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Ethiopia",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Mauritania",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Madagascar",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Togo",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Zambia",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Sierra Leone",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "India",
+    "Regioes": [
+      "South Asia"
+    ]
+  },
+  {
+    "Pais": "Burundi",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Yemen",
+    "Regioes": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Pais": "Tanzania",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Haiti",
+    "Regioes": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Pais": "Malawi",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Lesotho",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Botswana",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Rwanda",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Zimbabwe",
+    "Regioes": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Pais": "Afghanistan",
+    "Regioes": [
+      "South Asia"
+    ]
+  }
+]
