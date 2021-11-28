@@ -1,0 +1,896 @@
+﻿[
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Estonia",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Poland",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Hungary",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Czech Republic",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Slovakia",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Romania",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Lithuania",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Montenegro",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Serbia",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "North Macedonia",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Croatia",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Albania",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Slovenia",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Bulgaria",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Kosovo",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Latvia",
+    "Regiao": [
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "Country": "Tajikistan",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Moldova",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Georgia",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Azerbaijan",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Russia",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Turkmenistan",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Uzbekistan",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Ukraine",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Kazakhstan",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Belarus",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Armenia",
+    "Regiao": [
+      "Commonwealth of Independent States"
+    ]
+  },
+  {
+    "Country": "Mongolia",
+    "Regiao": [
+      "East Asia"
+    ]
+  },
+  {
+    "Country": "Taiwan Province of China",
+    "Regiao": [
+      "East Asia"
+    ]
+  },
+  {
+    "Country": "China",
+    "Regiao": [
+      "East Asia"
+    ]
+  },
+  {
+    "Country": "South Korea",
+    "Regiao": [
+      "East Asia"
+    ]
+  },
+  {
+    "Country": "Hong Kong S.A.R. of China",
+    "Regiao": [
+      "East Asia"
+    ]
+  },
+  {
+    "Country": "Japan",
+    "Regiao": [
+      "East Asia"
+    ]
+  },
+  {
+    "Country": "Panama",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Costa Rica",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "El Salvador",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Uruguay",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Jamaica",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Chile",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Dominican Republic",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Brazil",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Colombia",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Venezuela",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Nicaragua",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Haiti",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Argentina",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Paraguay",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Honduras",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Mexico",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Guatemala",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Peru",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Ecuador",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Bolivia",
+    "Regiao": [
+      "Latin America and Caribbean"
+    ]
+  },
+  {
+    "Country": "Iraq",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Lebanon",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Morocco",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Tunisia",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Bahrain",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Yemen",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Egypt",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Libya",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Iran",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Palestinian Territories",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Jordan",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Kuwait",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Turkey",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Algeria",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Israel",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Regiao": [
+      "Middle East and North Africa"
+    ]
+  },
+  {
+    "Country": "United States",
+    "Regiao": [
+      "North America and ANZ"
+    ]
+  },
+  {
+    "Country": "Australia",
+    "Regiao": [
+      "North America and ANZ"
+    ]
+  },
+  {
+    "Country": "Canada",
+    "Regiao": [
+      "North America and ANZ"
+    ]
+  },
+  {
+    "Country": "New Zealand",
+    "Regiao": [
+      "North America and ANZ"
+    ]
+  },
+  {
+    "Country": "Sri Lanka",
+    "Regiao": [
+      "South Asia"
+    ]
+  },
+  {
+    "Country": "Pakistan",
+    "Regiao": [
+      "South Asia"
+    ]
+  },
+  {
+    "Country": "India",
+    "Regiao": [
+      "South Asia"
+    ]
+  },
+  {
+    "Country": "Bangladesh",
+    "Regiao": [
+      "South Asia"
+    ]
+  },
+  {
+    "Country": "Afghanistan",
+    "Regiao": [
+      "South Asia"
+    ]
+  },
+  {
+    "Country": "Maldives",
+    "Regiao": [
+      "South Asia"
+    ]
+  },
+  {
+    "Country": "Nepal",
+    "Regiao": [
+      "South Asia"
+    ]
+  },
+  {
+    "Country": "Malaysia",
+    "Regiao": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Country": "Laos",
+    "Regiao": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Regiao": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Country": "Cambodia",
+    "Regiao": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Regiao": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Country": "Thailand",
+    "Regiao": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Country": "Singapore",
+    "Regiao": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Country": "Myanmar",
+    "Regiao": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Country": "Vietnam",
+    "Regiao": [
+      "Southeast Asia"
+    ]
+  },
+  {
+    "Country": "Lesotho",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Cameroon",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Gabon",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Guinea",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Gambia",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Swaziland",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Liberia",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Zambia",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Malawi",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Nigeria",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Burkina Faso",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Kenya",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Togo",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Sierra Leone",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Mauritania",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Tanzania",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "South Africa",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Mali",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Zimbabwe",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Ghana",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Congo (Brazzaville)",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Ethiopia",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Benin",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Namibia",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Uganda",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Rwanda",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Madagascar",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Mauritius",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Niger",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Mozambique",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Comoros",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Chad",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Ivory Coast",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Botswana",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Burundi",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Senegal",
+    "Regiao": [
+      "Sub-Saharan Africa"
+    ]
+  },
+  {
+    "Country": "Italy",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Sweden",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Austria",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Portugal",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Iceland",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Netherlands",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "France",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Spain",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Germany",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Cyprus",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Greece",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Ireland",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Malta",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "North Cyprus",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Denmark",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Switzerland",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Luxembourg",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Belgium",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Finland",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "Norway",
+    "Regiao": [
+      "Western Europe"
+    ]
+  },
+  {
+    "Country": "United Kingdom",
+    "Regiao": [
+      "Western Europe"
+    ]
+  }
+]

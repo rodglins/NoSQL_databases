@@ -1,0 +1,4759 @@
+﻿[
+  {
+    "n": {
+"identity": 465,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 382,
+" Healthy_life_expectancy": "10",
+"Generosity": -102,
+"Country_name": "Afghanistan",
+"lowerwhisker": 2449,
+" Social_support": "0",
+"Country_id": "1",
+" Log_GDP_per_capita": "0",
+"Standard_error_of_ladder_score": 38,
+"Logged_GDP_per_capita": 7695,
+"Social_support": 463,
+"Healthy_life_expectancy": 52493,
+"Perceptions_of_corruption": 924,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "7",
+"Ladder_score": 2523,
+"upperwhisker": 2596,
+"Explained_by_4": 1895,
+"Explained_by_3": 122,
+"Explained_by_2": 126,
+"Explained_by_1": 370
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 466,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 785,
+" Healthy_life_expectancy": "24",
+"Generosity": -30,
+"Country_name": "Albania",
+"lowerwhisker": 5001,
+" Social_support": "491",
+"Country_id": "2",
+" Log_GDP_per_capita": "529",
+"Standard_error_of_ladder_score": 59,
+"Logged_GDP_per_capita": 9520,
+"Social_support": 697,
+"Healthy_life_expectancy": 68999,
+"Perceptions_of_corruption": 901,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 5117,
+"upperwhisker": 5234,
+"Explained_by_4": 2250,
+"Explained_by_3": 168,
+"Explained_by_2": 646,
+"Explained_by_1": 1008
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 467,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 480,
+" Healthy_life_expectancy": "120",
+"Generosity": -67,
+"Country_name": "Algeria",
+"lowerwhisker": 4783,
+" Social_support": "119",
+"Country_id": "3",
+" Log_GDP_per_capita": "765",
+"Standard_error_of_ladder_score": 53,
+"Logged_GDP_per_capita": 9342,
+"Social_support": 802,
+"Healthy_life_expectancy": 66005,
+"Perceptions_of_corruption": 752,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 4887,
+"upperwhisker": 4991,
+"Explained_by_4": 2242,
+"Explained_by_3": 144,
+"Explained_by_2": 552,
+"Explained_by_1": 946
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 468,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 828,
+" Healthy_life_expectancy": "67",
+"Generosity": -182,
+"Country_name": "Argentina",
+"lowerwhisker": 5819,
+" Social_support": "544",
+"Country_id": "4",
+" Log_GDP_per_capita": "980",
+"Standard_error_of_ladder_score": 56,
+"Logged_GDP_per_capita": 9962,
+"Social_support": 898,
+"Healthy_life_expectancy": 69000,
+"Perceptions_of_corruption": 834,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 5929,
+"upperwhisker": 6040,
+"Explained_by_4": 2461,
+"Explained_by_3": 69,
+"Explained_by_2": 646,
+"Explained_by_1": 1162
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 469,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 825,
+" Healthy_life_expectancy": "198",
+"Generosity": -168,
+"Country_name": "Armenia",
+"lowerwhisker": 5168,
+" Social_support": "540",
+"Country_id": "5",
+" Log_GDP_per_capita": "758",
+"Standard_error_of_ladder_score": 58,
+"Logged_GDP_per_capita": 9487,
+"Social_support": 799,
+"Healthy_life_expectancy": 67055,
+"Perceptions_of_corruption": 629,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 5283,
+"upperwhisker": 5397,
+"Explained_by_4": 2127,
+"Explained_by_3": 79,
+"Explained_by_2": 585,
+"Explained_by_1": 996
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 470,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 914,
+" Healthy_life_expectancy": "317",
+"Generosity": 159,
+"Country_name": "Australia",
+"lowerwhisker": 7102,
+" Social_support": "647",
+"Country_id": "6",
+" Log_GDP_per_capita": "1076",
+"Standard_error_of_ladder_score": 41,
+"Logged_GDP_per_capita": 10796,
+"Healthy_life_expectancy": 73900,
+"Social_support": 940,
+"Perceptions_of_corruption": 442,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "6",
+"Ladder_score": 7183,
+"Explained_by_4": 2598,
+"upperwhisker": 7265,
+"Explained_by_3": 291,
+"Explained_by_2": 801,
+"Explained_by_1": 1453
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 471,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 908,
+" Healthy_life_expectancy": "292",
+"Generosity": 42,
+"Country_name": "Austria",
+"lowerwhisker": 7198,
+" Social_support": "640",
+"Country_id": "7",
+" Log_GDP_per_capita": "1062",
+"Standard_error_of_ladder_score": 36,
+"Logged_GDP_per_capita": 10906,
+"Healthy_life_expectancy": 73300,
+"Social_support": 934,
+"Perceptions_of_corruption": 481,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7268,
+"Explained_by_4": 2784,
+"upperwhisker": 7337,
+"Explained_by_3": 215,
+"Explained_by_2": 782,
+"Explained_by_1": 1492
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 472,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 814,
+" Healthy_life_expectancy": "276",
+"Generosity": -223,
+"Country_name": "Azerbaijan",
+"lowerwhisker": 5091,
+" Social_support": "526",
+"Country_id": "8",
+" Log_GDP_per_capita": "841",
+"Standard_error_of_ladder_score": 40,
+"Logged_GDP_per_capita": 9569,
+"Social_support": 836,
+"Healthy_life_expectancy": 65656,
+"Perceptions_of_corruption": 506,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 5171,
+"upperwhisker": 5250,
+"Explained_by_4": 1919,
+"Explained_by_3": 43,
+"Explained_by_2": 541,
+"Explained_by_1": 1025
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 473,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 925,
+" Healthy_life_expectancy": "139",
+"Generosity": 89,
+"Country_name": "Bahrain",
+"lowerwhisker": 6514,
+" Social_support": "661",
+"Country_id": "9",
+" Log_GDP_per_capita": "899",
+"Standard_error_of_ladder_score": 68,
+"Logged_GDP_per_capita": 10669,
+"Healthy_life_expectancy": 69495,
+"Social_support": 862,
+"Perceptions_of_corruption": 722,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 6647,
+"Explained_by_4": 2631,
+"upperwhisker": 6779,
+"Explained_by_3": 246,
+"Explained_by_2": 662,
+"Explained_by_1": 1409
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 474,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 877,
+" Healthy_life_expectancy": "164",
+"Generosity": -41,
+"Country_name": "Bangladesh",
+"lowerwhisker": 4934,
+" Social_support": "603",
+"Country_id": "10",
+" Log_GDP_per_capita": "520",
+"Standard_error_of_ladder_score": 46,
+"Logged_GDP_per_capita": 8454,
+"Social_support": 693,
+"Healthy_life_expectancy": 64800,
+"Perceptions_of_corruption": 682,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "7",
+"Ladder_score": 5025,
+"upperwhisker": 5115,
+"Explained_by_4": 2427,
+"Explained_by_3": 161,
+"Explained_by_2": 514,
+"Explained_by_1": 635
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 475,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 650,
+" Healthy_life_expectancy": "199",
+"Generosity": -180,
+"Country_name": "Belarus",
+"lowerwhisker": 5442,
+" Social_support": "326",
+"Country_id": "11",
+" Log_GDP_per_capita": "1007",
+"Standard_error_of_ladder_score": 47,
+"Logged_GDP_per_capita": 9853,
+"Social_support": 910,
+"Healthy_life_expectancy": 66253,
+"Perceptions_of_corruption": 627,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 5534,
+"upperwhisker": 5625,
+"Explained_by_4": 2247,
+"Explained_by_3": 70,
+"Explained_by_2": 560,
+"Explained_by_1": 1124
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 476,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 783,
+" Healthy_life_expectancy": "187",
+"Generosity": -153,
+"Country_name": "Belgium",
+"lowerwhisker": 6767,
+" Social_support": "489",
+"Country_id": "12",
+" Log_GDP_per_capita": "998",
+"Standard_error_of_ladder_score": 34,
+"Logged_GDP_per_capita": 10823,
+"Social_support": 906,
+"Healthy_life_expectancy": 72199,
+"Perceptions_of_corruption": 646,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 6834,
+"upperwhisker": 6901,
+"Explained_by_4": 2862,
+"Explained_by_3": 88,
+"Explained_by_2": 747,
+"Explained_by_1": 1463
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 477,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 757,
+" Healthy_life_expectancy": "178",
+"Generosity": -34,
+"Country_name": "Benin",
+"lowerwhisker": 4901,
+" Social_support": "457",
+"Country_id": "13",
+" Log_GDP_per_capita": "58",
+"Standard_error_of_ladder_score": 73,
+"Logged_GDP_per_capita": 8087,
+"Social_support": 489,
+"Healthy_life_expectancy": 54713,
+"Perceptions_of_corruption": 661,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 5045,
+"upperwhisker": 5189,
+"Explained_by_4": 3482,
+"Explained_by_3": 166,
+"Explained_by_2": 196,
+"Explained_by_1": 507
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 478,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 875,
+" Healthy_life_expectancy": "64",
+"Generosity": -77,
+"Country_name": "Bolivia",
+"lowerwhisker": 5613,
+" Social_support": "600",
+"Country_id": "14",
+" Log_GDP_per_capita": "782",
+"Standard_error_of_ladder_score": 53,
+"Logged_GDP_per_capita": 9046,
+"Social_support": 810,
+"Healthy_life_expectancy": 63901,
+"Perceptions_of_corruption": 839,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 5716,
+"upperwhisker": 5819,
+"Explained_by_4": 2805,
+"Explained_by_3": 138,
+"Explained_by_2": 486,
+"Explained_by_1": 842
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 479,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 706,
+" Healthy_life_expectancy": "5",
+"Generosity": 113,
+"Country_name": "Bosnia and Herzegovina",
+"lowerwhisker": 5715,
+" Social_support": "395",
+"Country_id": "15",
+" Log_GDP_per_capita": "919",
+"Standard_error_of_ladder_score": 50,
+"Logged_GDP_per_capita": 9590,
+"Social_support": 870,
+"Healthy_life_expectancy": 68098,
+"Perceptions_of_corruption": 931,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 5813,
+"upperwhisker": 5911,
+"Explained_by_4": 2583,
+"Explained_by_3": 261,
+"Explained_by_2": 618,
+"Explained_by_1": 1032
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 480,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 824,
+" Healthy_life_expectancy": "88",
+"Generosity": -246,
+"Country_name": "Botswana",
+"lowerwhisker": 3322,
+" Social_support": "539",
+"Country_id": "16",
+" Log_GDP_per_capita": "724",
+"Standard_error_of_ladder_score": 74,
+"Logged_GDP_per_capita": 9782,
+"Social_support": 784,
+"Healthy_life_expectancy": 59269,
+"Perceptions_of_corruption": 801,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 3467,
+"upperwhisker": 3611,
+"Explained_by_4": 648,
+"Explained_by_3": 27,
+"Explained_by_2": 340,
+"Explained_by_1": 1099
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 481,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 804,
+" Healthy_life_expectancy": "117",
+"Generosity": -71,
+"Country_name": "Brazil",
+"lowerwhisker": 6245,
+" Social_support": "514",
+"Country_id": "17",
+" Log_GDP_per_capita": "944",
+"Standard_error_of_ladder_score": 43,
+"Logged_GDP_per_capita": 9577,
+"Social_support": 882,
+"Healthy_life_expectancy": 66601,
+"Perceptions_of_corruption": 756,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 6330,
+"upperwhisker": 6415,
+"Explained_by_4": 3015,
+"Explained_by_3": 142,
+"Explained_by_2": 571,
+"Explained_by_1": 1028
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 482,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 788,
+" Healthy_life_expectancy": "5",
+"Generosity": -96,
+"Country_name": "Bulgaria",
+"lowerwhisker": 5160,
+" Social_support": "494",
+"Country_id": "18",
+" Log_GDP_per_capita": "1055",
+"Standard_error_of_ladder_score": 54,
+"Logged_GDP_per_capita": 10016,
+"Social_support": 931,
+"Healthy_life_expectancy": 67000,
+"Perceptions_of_corruption": 932,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 5266,
+"upperwhisker": 5371,
+"Explained_by_4": 1823,
+"Explained_by_3": 125,
+"Explained_by_2": 583,
+"Explained_by_1": 1181
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 483,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 695,
+" Healthy_life_expectancy": "122",
+"Generosity": -9,
+"Country_name": "Burkina Faso",
+"lowerwhisker": 4675,
+" Social_support": "381",
+"Country_id": "19",
+" Log_GDP_per_capita": "472",
+"Standard_error_of_ladder_score": 81,
+"Logged_GDP_per_capita": 7678,
+"Social_support": 672,
+"Healthy_life_expectancy": 54151,
+"Perceptions_of_corruption": 748,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4834,
+"upperwhisker": 4993,
+"Explained_by_4": 3133,
+"Explained_by_3": 182,
+"Explained_by_2": 179,
+"Explained_by_1": 364
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 484,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 626,
+" Healthy_life_expectancy": "212",
+"Generosity": -24,
+"Country_name": "Burundi",
+"lowerwhisker": 3565,
+" Social_support": "298",
+"Country_id": "20",
+" Log_GDP_per_capita": "62",
+"Standard_error_of_ladder_score": 107,
+"Logged_GDP_per_capita": 6635,
+"Social_support": 490,
+"Healthy_life_expectancy": 53400,
+"Perceptions_of_corruption": 607,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 3775,
+"upperwhisker": 3985,
+"Explained_by_4": 2876,
+"Explained_by_3": 172,
+"Explained_by_2": 155,
+"Explained_by_1": 0
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 485,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 959,
+" Healthy_life_expectancy": "61",
+"Generosity": 34,
+"Country_name": "Cambodia",
+"lowerwhisker": 4698,
+" Social_support": "702",
+"Country_id": "21",
+" Log_GDP_per_capita": "680",
+"Standard_error_of_ladder_score": 67,
+"Logged_GDP_per_capita": 8360,
+"Healthy_life_expectancy": 62000,
+"Social_support": 765,
+"Perceptions_of_corruption": 843,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "8",
+"Ladder_score": 4830,
+"Explained_by_4": 2148,
+"upperwhisker": 4963,
+"Explained_by_3": 210,
+"Explained_by_2": 426,
+"Explained_by_1": 603
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 486,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 731,
+" Healthy_life_expectancy": "58",
+"Generosity": 26,
+"Country_name": "Cameroon",
+"lowerwhisker": 4996,
+" Social_support": "425",
+"Country_id": "22",
+" Log_GDP_per_capita": "556",
+"Standard_error_of_ladder_score": 74,
+"Logged_GDP_per_capita": 8189,
+"Healthy_life_expectancy": 53515,
+"Social_support": 710,
+"Perceptions_of_corruption": 848,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 5142,
+"Explained_by_4": 3195,
+"upperwhisker": 5288,
+"Explained_by_3": 205,
+"Explained_by_2": 159,
+"Explained_by_1": 543
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 487,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 915,
+" Healthy_life_expectancy": "335",
+"Generosity": 89,
+"Country_name": "Canada",
+"lowerwhisker": 7021,
+" Social_support": "648",
+"Country_id": "23",
+" Log_GDP_per_capita": "1044",
+"Standard_error_of_ladder_score": 42,
+"Logged_GDP_per_capita": 10776,
+"Healthy_life_expectancy": 73800,
+"Social_support": 926,
+"Perceptions_of_corruption": 415,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "6",
+"Ladder_score": 7103,
+"Explained_by_4": 2585,
+"upperwhisker": 7185,
+"Explained_by_3": 246,
+"Explained_by_2": 798,
+"Explained_by_1": 1447
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 488,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 579,
+" Healthy_life_expectancy": "84",
+"Generosity": 41,
+"lowerwhisker": 4171,
+"Country_name": "Chad",
+" Social_support": "240",
+"Country_id": "24",
+" Log_GDP_per_capita": "353",
+"Logged_GDP_per_capita": 7364,
+"Standard_error_of_ladder_score": 94,
+"Healthy_life_expectancy": 48478,
+"Social_support": 619,
+"Perceptions_of_corruption": 807,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4355,
+"upperwhisker": 4540,
+"Explained_by_4": 3209,
+"Explained_by_3": 215,
+"Explained_by_2": 0,
+"Explained_by_1": 255
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 489,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 742,
+" Healthy_life_expectancy": "70",
+"Generosity": -44,
+"Country_name": "Chile",
+"lowerwhisker": 6081,
+" Social_support": "438",
+"Country_id": "25",
+" Log_GDP_per_capita": "946",
+"Standard_error_of_ladder_score": 46,
+"Logged_GDP_per_capita": 10071,
+"Social_support": 882,
+"Healthy_life_expectancy": 70000,
+"Perceptions_of_corruption": 830,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 6172,
+"upperwhisker": 6262,
+"Explained_by_4": 2682,
+"Explained_by_3": 159,
+"Explained_by_2": 678,
+"Explained_by_1": 1200
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 490,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 904,
+" Healthy_life_expectancy": "117",
+"Generosity": -146,
+"Country_name": "China",
+"lowerwhisker": 5281,
+" Social_support": "636",
+"Country_id": "26",
+" Log_GDP_per_capita": "785",
+"Standard_error_of_ladder_score": 29,
+"Logged_GDP_per_capita": 9673,
+"Social_support": 811,
+"Healthy_life_expectancy": 69593,
+"Perceptions_of_corruption": 755,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "3",
+"Ladder_score": 5339,
+"upperwhisker": 5397,
+"Explained_by_4": 1982,
+"Explained_by_3": 93,
+"Explained_by_2": 665,
+"Explained_by_1": 1061
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 491,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 837,
+" Healthy_life_expectancy": "63",
+"Generosity": -135,
+"Country_name": "Colombia",
+"lowerwhisker": 5892,
+" Social_support": "554",
+"Country_id": "27",
+" Log_GDP_per_capita": "866",
+"Standard_error_of_ladder_score": 61,
+"Logged_GDP_per_capita": 9557,
+"Social_support": 847,
+"Healthy_life_expectancy": 68001,
+"Perceptions_of_corruption": 841,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 6012,
+"upperwhisker": 6132,
+"Explained_by_4": 2794,
+"Explained_by_3": 100,
+"Explained_by_2": 615,
+"Explained_by_1": 1021
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 492,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 548,
+" Healthy_life_expectancy": "101",
+"Generosity": 82,
+"Country_name": "Comoros",
+"lowerwhisker": 4123,
+" Social_support": "202",
+"Country_id": "28",
+" Log_GDP_per_capita": "367",
+"Standard_error_of_ladder_score": 84,
+"Logged_GDP_per_capita": 8031,
+"Healthy_life_expectancy": 57349,
+"Social_support": 626,
+"Perceptions_of_corruption": 781,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4289,
+"Explained_by_4": 2610,
+"upperwhisker": 4454,
+"Explained_by_3": 241,
+"Explained_by_2": 279,
+"Explained_by_1": 488
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 493,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 695,
+" Healthy_life_expectancy": "124",
+"Generosity": -68,
+"Country_name": "Congo (Brazzaville)",
+"lowerwhisker": 5151,
+" Social_support": "381",
+"Country_id": "29",
+" Log_GDP_per_capita": "392",
+"Standard_error_of_ladder_score": 97,
+"Logged_GDP_per_capita": 8117,
+"Healthy_life_expectancy": 58221,
+"Social_support": 636,
+"Perceptions_of_corruption": 745,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 5342,
+"upperwhisker": 5533,
+"Explained_by_4": 3476,
+"Explained_by_3": 144,
+"Explained_by_2": 307,
+"Explained_by_1": 518
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 494,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 934,
+" Healthy_life_expectancy": "83",
+"Generosity": -126,
+"Country_name": "Costa Rica",
+"lowerwhisker": 6960,
+" Social_support": "673",
+"Country_id": "30",
+" Log_GDP_per_capita": "966",
+"Standard_error_of_ladder_score": 56,
+"Logged_GDP_per_capita": 9880,
+"Social_support": 891,
+"Healthy_life_expectancy": 71400,
+"Perceptions_of_corruption": 809,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 7069,
+"upperwhisker": 7179,
+"Explained_by_4": 3387,
+"Explained_by_3": 105,
+"Explained_by_2": 722,
+"Explained_by_1": 1134
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 495,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 754,
+" Healthy_life_expectancy": "0",
+"Generosity": -118,
+"Country_name": "Croatia",
+"lowerwhisker": 5788,
+" Social_support": "453",
+"Country_id": "31",
+" Log_GDP_per_capita": "1039",
+"Standard_error_of_ladder_score": 48,
+"Logged_GDP_per_capita": 10217,
+"Social_support": 924,
+"Healthy_life_expectancy": 70799,
+"Perceptions_of_corruption": 939,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 5882,
+"upperwhisker": 5975,
+"Explained_by_4": 2325,
+"Explained_by_3": 111,
+"Explained_by_2": 703,
+"Explained_by_1": 1251
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 496,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 763,
+" Healthy_life_expectancy": "61",
+"Generosity": -15,
+"Country_name": "Cyprus",
+"lowerwhisker": 6128,
+" Social_support": "464",
+"Country_id": "32",
+" Log_GDP_per_capita": "765",
+"Standard_error_of_ladder_score": 49,
+"Logged_GDP_per_capita": 10576,
+"Social_support": 802,
+"Healthy_life_expectancy": 73898,
+"Perceptions_of_corruption": 844,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 6223,
+"upperwhisker": 6319,
+"Explained_by_4": 2578,
+"Explained_by_3": 178,
+"Explained_by_2": 801,
+"Explained_by_1": 1377
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 497,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 858,
+" Healthy_life_expectancy": "46",
+"Generosity": -208,
+"Country_name": "Czech Republic",
+"lowerwhisker": 6868,
+" Social_support": "580",
+"Country_id": "33",
+" Log_GDP_per_capita": "1090",
+"Standard_error_of_ladder_score": 49,
+"Logged_GDP_per_capita": 10556,
+"Social_support": 947,
+"Healthy_life_expectancy": 70807,
+"Perceptions_of_corruption": 868,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 6965,
+"upperwhisker": 7062,
+"Explained_by_4": 3124,
+"Explained_by_3": 52,
+"Explained_by_2": 703,
+"Explained_by_1": 1370
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 498,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 946,
+" Healthy_life_expectancy": "485",
+"Generosity": 30,
+"Country_name": "Denmark",
+"lowerwhisker": 7552,
+" Social_support": "686",
+"Country_id": "34",
+" Log_GDP_per_capita": "1108",
+"Standard_error_of_ladder_score": 35,
+"Logged_GDP_per_capita": 10933,
+"Healthy_life_expectancy": 72700,
+"Social_support": 954,
+"Perceptions_of_corruption": 179,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7620,
+"Explained_by_4": 2868,
+"upperwhisker": 7687,
+"Explained_by_3": 208,
+"Explained_by_2": 763,
+"Explained_by_1": 1502
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 499,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 860,
+" Healthy_life_expectancy": "144",
+"Generosity": -133,
+"Country_name": "Dominican Republic",
+"lowerwhisker": 5405,
+" Social_support": "581",
+"Country_id": "35",
+" Log_GDP_per_capita": "879",
+"Standard_error_of_ladder_score": 71,
+"Logged_GDP_per_capita": 9802,
+"Healthy_life_expectancy": 66102,
+"Social_support": 853,
+"Perceptions_of_corruption": 714,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 5545,
+"upperwhisker": 5685,
+"Explained_by_4": 2178,
+"Explained_by_3": 101,
+"Explained_by_2": 555,
+"Explained_by_1": 1106
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 500,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 842,
+" Healthy_life_expectancy": "62",
+"Generosity": -124,
+"Country_name": "Ecuador",
+"lowerwhisker": 5653,
+" Social_support": "560",
+"Country_id": "36",
+" Log_GDP_per_capita": "806",
+"Standard_error_of_ladder_score": 57,
+"Logged_GDP_per_capita": 9313,
+"Social_support": 821,
+"Healthy_life_expectancy": 68800,
+"Perceptions_of_corruption": 843,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 5764,
+"upperwhisker": 5875,
+"Explained_by_4": 2653,
+"Explained_by_3": 107,
+"Explained_by_2": 640,
+"Explained_by_1": 935
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 501,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 749,
+" Healthy_life_expectancy": "92",
+"Generosity": -182,
+"Country_name": "Egypt",
+"lowerwhisker": 4195,
+" Social_support": "446",
+"Country_id": "37",
+" Log_GDP_per_capita": "647",
+"Standard_error_of_ladder_score": 45,
+"Logged_GDP_per_capita": 9367,
+"Social_support": 750,
+"Healthy_life_expectancy": 61998,
+"Perceptions_of_corruption": 795,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 4283,
+"upperwhisker": 4371,
+"Explained_by_4": 1648,
+"Explained_by_3": 69,
+"Explained_by_2": 426,
+"Explained_by_1": 954
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 502,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 888,
+" Healthy_life_expectancy": "160",
+"Generosity": -110,
+"Country_name": "El Salvador",
+"lowerwhisker": 5933,
+" Social_support": "615",
+"Country_id": "38",
+" Log_GDP_per_capita": "675",
+"Standard_error_of_ladder_score": 65,
+"Logged_GDP_per_capita": 9054,
+"Social_support": 762,
+"Healthy_life_expectancy": 66402,
+"Perceptions_of_corruption": 688,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 6061,
+"upperwhisker": 6188,
+"Explained_by_4": 3085,
+"Explained_by_3": 116,
+"Explained_by_2": 565,
+"Explained_by_1": 845
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 503,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 909,
+" Healthy_life_expectancy": "263",
+"Generosity": -106,
+"Country_name": "Estonia",
+"lowerwhisker": 6115,
+" Social_support": "641",
+"Country_id": "39",
+" Log_GDP_per_capita": "1079",
+"Standard_error_of_ladder_score": 38,
+"Logged_GDP_per_capita": 10481,
+"Social_support": 941,
+"Healthy_life_expectancy": 68800,
+"Perceptions_of_corruption": 527,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 6189,
+"upperwhisker": 6263,
+"Explained_by_4": 2103,
+"Explained_by_3": 119,
+"Explained_by_2": 640,
+"Explained_by_1": 1344
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 504,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 752,
+" Healthy_life_expectancy": "114",
+"Generosity": 82,
+"Country_name": "Ethiopia",
+"lowerwhisker": 4175,
+" Social_support": "451",
+"Country_id": "40",
+" Log_GDP_per_capita": "679",
+"Standard_error_of_ladder_score": 51,
+"Logged_GDP_per_capita": 7694,
+"Healthy_life_expectancy": 59000,
+"Social_support": 764,
+"Perceptions_of_corruption": 761,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4275,
+"Explained_by_4": 2089,
+"upperwhisker": 4374,
+"Explained_by_3": 241,
+"Explained_by_2": 331,
+"Explained_by_1": 370
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 505,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 949,
+" Healthy_life_expectancy": "481",
+"Generosity": -98,
+"Country_name": "Finland",
+"lowerwhisker": 7780,
+" Social_support": "691",
+"Country_id": "41",
+" Log_GDP_per_capita": "1106",
+"Standard_error_of_ladder_score": 32,
+"Logged_GDP_per_capita": 10775,
+"Social_support": 954,
+"Healthy_life_expectancy": 72000,
+"Perceptions_of_corruption": 186,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7842,
+"upperwhisker": 7904,
+"Explained_by_4": 3253,
+"Explained_by_3": 124,
+"Explained_by_2": 741,
+"Explained_by_1": 1446
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 506,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 822,
+" Healthy_life_expectancy": "235",
+"Generosity": -147,
+"Country_name": "France",
+"lowerwhisker": 6618,
+" Social_support": "536",
+"Country_id": "42",
+" Log_GDP_per_capita": "1081",
+"Standard_error_of_ladder_score": 37,
+"Logged_GDP_per_capita": 10704,
+"Social_support": 942,
+"Healthy_life_expectancy": 74000,
+"Perceptions_of_corruption": 571,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 6690,
+"upperwhisker": 6762,
+"Explained_by_4": 2521,
+"Explained_by_3": 92,
+"Explained_by_2": 804,
+"Explained_by_1": 1421
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 507,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 731,
+" Healthy_life_expectancy": "64",
+"Generosity": -200,
+"Country_name": "Gabon",
+"lowerwhisker": 4706,
+" Social_support": "424",
+"Country_id": "43",
+" Log_GDP_per_capita": "707",
+"Standard_error_of_ladder_score": 75,
+"Logged_GDP_per_capita": 9603,
+"Social_support": 776,
+"Healthy_life_expectancy": 59962,
+"Perceptions_of_corruption": 840,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4852,
+"upperwhisker": 4998,
+"Explained_by_4": 2201,
+"Explained_by_3": 58,
+"Explained_by_2": 362,
+"Explained_by_1": 1037
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 508,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 697,
+" Healthy_life_expectancy": "123",
+"Generosity": 424,
+"Country_name": "Gambia",
+"lowerwhisker": 4877,
+" Social_support": "384",
+"Country_id": "44",
+" Log_GDP_per_capita": "511",
+"Standard_error_of_ladder_score": 89,
+"Logged_GDP_per_capita": 7686,
+"Healthy_life_expectancy": 55160,
+"Social_support": 690,
+"Perceptions_of_corruption": 746,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 5051,
+"Explained_by_4": 2990,
+"upperwhisker": 5225,
+"Explained_by_3": 465,
+"Explained_by_2": 210,
+"Explained_by_1": 367
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 509,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 783,
+" Healthy_life_expectancy": "181",
+"Generosity": -238,
+"Country_name": "Georgia",
+"lowerwhisker": 4785,
+" Social_support": "488",
+"Country_id": "45",
+" Log_GDP_per_capita": "470",
+"Standard_error_of_ladder_score": 54,
+"Logged_GDP_per_capita": 9585,
+"Social_support": 671,
+"Healthy_life_expectancy": 64300,
+"Perceptions_of_corruption": 655,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 4891,
+"upperwhisker": 4998,
+"Explained_by_4": 2191,
+"Explained_by_3": 32,
+"Explained_by_2": 498,
+"Explained_by_1": 1030
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 510,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 875,
+" Healthy_life_expectancy": "306",
+"Generosity": 11,
+"Country_name": "Germany",
+"lowerwhisker": 7077,
+" Social_support": "600",
+"Country_id": "46",
+" Log_GDP_per_capita": "993",
+"Standard_error_of_ladder_score": 40,
+"Logged_GDP_per_capita": 10873,
+"Healthy_life_expectancy": 72500,
+"Social_support": 903,
+"Perceptions_of_corruption": 460,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7155,
+"Explained_by_4": 2824,
+"upperwhisker": 7232,
+"Explained_by_3": 195,
+"Explained_by_2": 757,
+"Explained_by_1": 1480
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 511,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 807,
+" Healthy_life_expectancy": "58",
+"Generosity": 123,
+"Country_name": "Ghana",
+"lowerwhisker": 4958,
+" Social_support": "517",
+"Country_id": "47",
+" Log_GDP_per_capita": "595",
+"Standard_error_of_ladder_score": 67,
+"Logged_GDP_per_capita": 8580,
+"Healthy_life_expectancy": 57586,
+"Social_support": 727,
+"Perceptions_of_corruption": 848,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 5088,
+"Explained_by_4": 2684,
+"upperwhisker": 5219,
+"Explained_by_3": 268,
+"Explained_by_2": 287,
+"Explained_by_1": 680
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 512,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 582,
+" Healthy_life_expectancy": "74",
+"Generosity": -288,
+"Country_name": "Greece",
+"lowerwhisker": 5632,
+" Social_support": "243",
+"Country_id": "48",
+" Log_GDP_per_capita": "811",
+"Standard_error_of_ladder_score": 46,
+"Logged_GDP_per_capita": 10279,
+"Social_support": 823,
+"Healthy_life_expectancy": 72600,
+"Perceptions_of_corruption": 823,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 5723,
+"upperwhisker": 5813,
+"Explained_by_4": 2561,
+"Explained_by_3": 0,
+"Explained_by_2": 760,
+"Explained_by_1": 1273
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 513,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 906,
+" Healthy_life_expectancy": "105",
+"Generosity": -38,
+"Country_name": "Guatemala",
+"lowerwhisker": 6292,
+" Social_support": "638",
+"Country_id": "49",
+" Log_GDP_per_capita": "790",
+"Standard_error_of_ladder_score": 73,
+"Logged_GDP_per_capita": 9053,
+"Social_support": 813,
+"Healthy_life_expectancy": 64958,
+"Perceptions_of_corruption": 775,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 6435,
+"upperwhisker": 6577,
+"Explained_by_4": 3375,
+"Explained_by_3": 163,
+"Explained_by_2": 519,
+"Explained_by_1": 845
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 514,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 697,
+" Healthy_life_expectancy": "111",
+"Generosity": 95,
+"Country_name": "Guinea",
+"lowerwhisker": 4808,
+" Social_support": "384",
+"Country_id": "50",
+" Log_GDP_per_capita": "399",
+"Standard_error_of_ladder_score": 90,
+"Logged_GDP_per_capita": 7838,
+"Healthy_life_expectancy": 55008,
+"Social_support": 639,
+"Perceptions_of_corruption": 766,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4984,
+"Explained_by_4": 3216,
+"upperwhisker": 5160,
+"Explained_by_3": 250,
+"Explained_by_2": 206,
+"Explained_by_1": 420
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 515,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 593,
+" Healthy_life_expectancy": "139",
+"Generosity": 422,
+"Country_name": "Haiti",
+"lowerwhisker": 3276,
+" Social_support": "257",
+"Country_id": "51",
+" Log_GDP_per_capita": "173",
+"Standard_error_of_ladder_score": 173,
+"Logged_GDP_per_capita": 7477,
+"Healthy_life_expectancy": 55700,
+"Social_support": 540,
+"Perceptions_of_corruption": 721,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 3615,
+"Explained_by_4": 2060,
+"upperwhisker": 3953,
+"Explained_by_3": 463,
+"Explained_by_2": 227,
+"Explained_by_1": 294
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 516,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 857,
+" Healthy_life_expectancy": "83",
+"Generosity": 81,
+"Country_name": "Honduras",
+"lowerwhisker": 5758,
+" Social_support": "578",
+"Country_id": "52",
+" Log_GDP_per_capita": "787",
+"Standard_error_of_ladder_score": 82,
+"Logged_GDP_per_capita": 8648,
+"Healthy_life_expectancy": 67300,
+"Social_support": 812,
+"Perceptions_of_corruption": 809,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 5919,
+"Explained_by_4": 2934,
+"upperwhisker": 6081,
+"Explained_by_3": 241,
+"Explained_by_2": 593,
+"Explained_by_1": 703
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 517,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 717,
+" Healthy_life_expectancy": "342",
+"Generosity": 67,
+"Country_name": "Hong Kong S.A.R. of China",
+"lowerwhisker": 5380,
+" Social_support": "408",
+"Country_id": "53",
+" Log_GDP_per_capita": "841",
+"Standard_error_of_ladder_score": 49,
+"Logged_GDP_per_capita": 11000,
+"Social_support": 836,
+"Healthy_life_expectancy": 76820,
+"Perceptions_of_corruption": 403,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "3",
+"Ladder_score": 5477,
+"upperwhisker": 5573,
+"Explained_by_4": 1236,
+"Explained_by_3": 232,
+"Explained_by_2": 893,
+"Explained_by_1": 1525
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 518,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 755,
+" Healthy_life_expectancy": "40",
+"Generosity": -186,
+"Country_name": "Hungary",
+"lowerwhisker": 5899,
+" Social_support": "454",
+"Country_id": "54",
+" Log_GDP_per_capita": "1083",
+"Standard_error_of_ladder_score": 47,
+"Logged_GDP_per_capita": 10358,
+"Social_support": 943,
+"Healthy_life_expectancy": 68000,
+"Perceptions_of_corruption": 876,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 5992,
+"upperwhisker": 6085,
+"Explained_by_4": 2432,
+"Explained_by_3": 67,
+"Explained_by_2": 615,
+"Explained_by_1": 1301
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 519,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 955,
+" Healthy_life_expectancy": "170",
+"Generosity": 160,
+"Country_name": "Iceland",
+"lowerwhisker": 7438,
+" Social_support": "698",
+"Country_id": "55",
+" Log_GDP_per_capita": "1172",
+"Standard_error_of_ladder_score": 59,
+"Logged_GDP_per_capita": 10878,
+"Healthy_life_expectancy": 73000,
+"Social_support": 983,
+"Perceptions_of_corruption": 673,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7554,
+"Explained_by_4": 2967,
+"upperwhisker": 7670,
+"Explained_by_3": 293,
+"Explained_by_2": 772,
+"Explained_by_1": 1482
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 520,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 893,
+" Healthy_life_expectancy": "106",
+"Generosity": 89,
+"Country_name": "India",
+"lowerwhisker": 3769,
+" Social_support": "622",
+"Country_id": "56",
+" Log_GDP_per_capita": "316",
+"Standard_error_of_ladder_score": 26,
+"Logged_GDP_per_capita": 8755,
+"Healthy_life_expectancy": 60633,
+"Social_support": 603,
+"Perceptions_of_corruption": 774,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "7",
+"Ladder_score": 3819,
+"Explained_by_4": 1405,
+"upperwhisker": 3869,
+"Explained_by_3": 246,
+"Explained_by_2": 383,
+"Explained_by_1": 741
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 521,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 873,
+" Healthy_life_expectancy": "46",
+"Generosity": 542,
+"Country_name": "Indonesia",
+"lowerwhisker": 5235,
+" Social_support": "598",
+"Country_id": "57",
+" Log_GDP_per_capita": "786",
+"Standard_error_of_ladder_score": 56,
+"Logged_GDP_per_capita": 9365,
+"Healthy_life_expectancy": 62236,
+"Social_support": 811,
+"Perceptions_of_corruption": 867,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "8",
+"Ladder_score": 5345,
+"Explained_by_4": 1987,
+"upperwhisker": 5454,
+"Explained_by_3": 541,
+"Explained_by_2": 433,
+"Explained_by_1": 954
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 522,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 608,
+" Healthy_life_expectancy": "144",
+"Generosity": 218,
+"lowerwhisker": 4614,
+"Country_name": "Iran",
+" Social_support": "275",
+"Country_id": "58",
+" Log_GDP_per_capita": "557",
+"Logged_GDP_per_capita": 9584,
+"Standard_error_of_ladder_score": 55,
+"Healthy_life_expectancy": 66300,
+"Social_support": 710,
+"Perceptions_of_corruption": 714,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 4721,
+"upperwhisker": 4828,
+"Explained_by_4": 1823,
+"Explained_by_3": 330,
+"Explained_by_2": 561,
+"Explained_by_1": 1030
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 523,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 630,
+" Healthy_life_expectancy": "41",
+"Generosity": -53,
+"Country_name": "Iraq",
+"lowerwhisker": 4738,
+" Social_support": "302",
+"Country_id": "59",
+" Log_GDP_per_capita": "638",
+"Standard_error_of_ladder_score": 59,
+"Logged_GDP_per_capita": 9240,
+"Healthy_life_expectancy": 60583,
+"Social_support": 746,
+"Perceptions_of_corruption": 875,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 4854,
+"Explained_by_4": 2429,
+"upperwhisker": 4970,
+"Explained_by_3": 153,
+"Explained_by_2": 381,
+"Explained_by_1": 910
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 524,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 879,
+" Healthy_life_expectancy": "367",
+"Generosity": 77,
+"Country_name": "Ireland",
+"lowerwhisker": 7006,
+" Social_support": "606",
+"Country_id": "60",
+" Log_GDP_per_capita": "1092",
+"Standard_error_of_ladder_score": 40,
+"Logged_GDP_per_capita": 11342,
+"Healthy_life_expectancy": 72400,
+"Social_support": 947,
+"Perceptions_of_corruption": 363,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7085,
+"Explained_by_4": 2384,
+"upperwhisker": 7164,
+"Explained_by_3": 238,
+"Explained_by_2": 753,
+"Explained_by_1": 1644
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 525,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 800,
+" Healthy_life_expectancy": "119",
+"Generosity": 31,
+"Country_name": "Israel",
+"lowerwhisker": 7090,
+" Social_support": "509",
+"Country_id": "61",
+" Log_GDP_per_capita": "1074",
+"Standard_error_of_ladder_score": 34,
+"Logged_GDP_per_capita": 10575,
+"Healthy_life_expectancy": 73503,
+"Social_support": 939,
+"Perceptions_of_corruption": 753,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 7157,
+"Explained_by_4": 3083,
+"upperwhisker": 7224,
+"Explained_by_3": 208,
+"Explained_by_2": 788,
+"Explained_by_1": 1376
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 526,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 693,
+" Healthy_life_expectancy": "47",
+"Generosity": -84,
+"Country_name": "Italy",
+"lowerwhisker": 6395,
+" Social_support": "379",
+"Country_id": "62",
+" Log_GDP_per_capita": "940",
+"Standard_error_of_ladder_score": 45,
+"Logged_GDP_per_capita": 10623,
+"Social_support": 880,
+"Healthy_life_expectancy": 73800,
+"Perceptions_of_corruption": 866,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 6483,
+"upperwhisker": 6572,
+"Explained_by_4": 2794,
+"Explained_by_3": 133,
+"Explained_by_2": 798,
+"Explained_by_1": 1393
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 527,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 741,
+" Healthy_life_expectancy": "92",
+"Generosity": -16,
+"Country_name": "Ivory Coast",
+"lowerwhisker": 5152,
+" Social_support": "438",
+"Country_id": "63",
+" Log_GDP_per_capita": "409",
+"Standard_error_of_ladder_score": 78,
+"Logged_GDP_per_capita": 8551,
+"Social_support": 644,
+"Healthy_life_expectancy": 50114,
+"Perceptions_of_corruption": 794,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 5306,
+"upperwhisker": 5460,
+"Explained_by_4": 3469,
+"Explained_by_3": 177,
+"Explained_by_2": 52,
+"Explained_by_1": 669
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 528,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 890,
+" Healthy_life_expectancy": "35",
+"Generosity": -137,
+"Country_name": "Jamaica",
+"lowerwhisker": 6004,
+" Social_support": "618",
+"Country_id": "64",
+" Log_GDP_per_capita": "932",
+"Standard_error_of_ladder_score": 156,
+"Logged_GDP_per_capita": 9186,
+"Social_support": 877,
+"Healthy_life_expectancy": 67500,
+"Perceptions_of_corruption": 884,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 6309,
+"upperwhisker": 6615,
+"Explained_by_4": 3135,
+"Explained_by_3": 99,
+"Explained_by_2": 599,
+"Explained_by_1": 891
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 529,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 796,
+" Healthy_life_expectancy": "192",
+"Generosity": -258,
+"Country_name": "Japan",
+"lowerwhisker": 5861,
+" Social_support": "504",
+"Country_id": "65",
+" Log_GDP_per_capita": "949",
+"Standard_error_of_ladder_score": 40,
+"Logged_GDP_per_capita": 10611,
+"Social_support": 884,
+"Healthy_life_expectancy": 75100,
+"Perceptions_of_corruption": 638,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "3",
+"Ladder_score": 5940,
+"upperwhisker": 6020,
+"Explained_by_4": 2048,
+"Explained_by_3": 20,
+"Explained_by_2": 838,
+"Explained_by_1": 1389
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 530,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 755,
+" Healthy_life_expectancy": "150",
+"Generosity": -167,
+"Country_name": "Jordan",
+"lowerwhisker": 4273,
+" Social_support": "455",
+"Country_id": "66",
+" Log_GDP_per_capita": "685",
+"Standard_error_of_ladder_score": 62,
+"Logged_GDP_per_capita": 9182,
+"Social_support": 767,
+"Healthy_life_expectancy": 67000,
+"Perceptions_of_corruption": 705,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 4395,
+"upperwhisker": 4516,
+"Explained_by_4": 1553,
+"Explained_by_3": 79,
+"Explained_by_2": 583,
+"Explained_by_1": 890
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 531,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 853,
+" Healthy_life_expectancy": "132",
+"Generosity": -69,
+"Country_name": "Kazakhstan",
+"lowerwhisker": 6060,
+" Social_support": "573",
+"Country_id": "67",
+" Log_GDP_per_capita": "1103",
+"Standard_error_of_ladder_score": 47,
+"Logged_GDP_per_capita": 10155,
+"Social_support": 952,
+"Healthy_life_expectancy": 65200,
+"Perceptions_of_corruption": 733,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 6152,
+"upperwhisker": 6243,
+"Explained_by_4": 2446,
+"Explained_by_3": 143,
+"Explained_by_2": 527,
+"Explained_by_1": 1230
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 532,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 779,
+" Healthy_life_expectancy": "73",
+"Generosity": 287,
+"Country_name": "Kenya",
+"lowerwhisker": 4466,
+" Social_support": "483",
+"Country_id": "68",
+" Log_GDP_per_capita": "508",
+"Standard_error_of_ladder_score": 72,
+"Logged_GDP_per_capita": 8361,
+"Healthy_life_expectancy": 60704,
+"Social_support": 688,
+"Perceptions_of_corruption": 825,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4607,
+"Explained_by_4": 2180,
+"upperwhisker": 4747,
+"Explained_by_3": 375,
+"Explained_by_2": 385,
+"Explained_by_1": 603
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 533,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 869,
+" Healthy_life_expectancy": "14",
+"Generosity": 257,
+"Country_name": "Kosovo",
+"lowerwhisker": 6257,
+" Social_support": "593",
+"Country_id": "69",
+" Log_GDP_per_capita": "807",
+"Standard_error_of_ladder_score": 59,
+"Logged_GDP_per_capita": 9318,
+"Healthy_life_expectancy": 63813,
+"Social_support": 821,
+"Perceptions_of_corruption": 917,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 6372,
+"Explained_by_4": 3182,
+"upperwhisker": 6487,
+"Explained_by_3": 356,
+"Explained_by_2": 483,
+"Explained_by_1": 937
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 534,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 867,
+" Healthy_life_expectancy": "130",
+"Generosity": -104,
+"Country_name": "Kuwait",
+"lowerwhisker": 5977,
+" Social_support": "591",
+"Country_id": "70",
+" Log_GDP_per_capita": "857",
+"Standard_error_of_ladder_score": 66,
+"Logged_GDP_per_capita": 10817,
+"Social_support": 843,
+"Healthy_life_expectancy": 66900,
+"Perceptions_of_corruption": 736,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 6106,
+"upperwhisker": 6235,
+"Explained_by_4": 2368,
+"Explained_by_3": 120,
+"Explained_by_2": 580,
+"Explained_by_1": 1461
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 535,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 935,
+" Healthy_life_expectancy": "20",
+"Generosity": 119,
+"Country_name": "Kyrgyzstan",
+"lowerwhisker": 5653,
+" Social_support": "673",
+"Country_id": "71",
+" Log_GDP_per_capita": "971",
+"Standard_error_of_ladder_score": 46,
+"Logged_GDP_per_capita": 8538,
+"Healthy_life_expectancy": 64401,
+"Social_support": 893,
+"Perceptions_of_corruption": 908,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 5744,
+"Explained_by_4": 2648,
+"upperwhisker": 5834,
+"Explained_by_3": 266,
+"Explained_by_2": 501,
+"Explained_by_1": 665
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 536,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 910,
+" Healthy_life_expectancy": "179",
+"Generosity": 123,
+"lowerwhisker": 4941,
+"Country_name": "Laos",
+" Social_support": "643",
+"Country_id": "72",
+" Log_GDP_per_capita": "598",
+"Logged_GDP_per_capita": 8947,
+"Standard_error_of_ladder_score": 45,
+"Healthy_life_expectancy": 58968,
+"Social_support": 728,
+"Perceptions_of_corruption": 658,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "8",
+"Ladder_score": 5030,
+"upperwhisker": 5119,
+"Explained_by_4": 2204,
+"Explained_by_3": 268,
+"Explained_by_2": 330,
+"Explained_by_1": 808
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 537,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 715,
+" Healthy_life_expectancy": "89",
+"Generosity": -162,
+"Country_name": "Latvia",
+"lowerwhisker": 5961,
+" Social_support": "405",
+"Country_id": "73",
+" Log_GDP_per_capita": "1047",
+"Standard_error_of_ladder_score": 36,
+"Logged_GDP_per_capita": 10315,
+"Social_support": 927,
+"Healthy_life_expectancy": 67100,
+"Perceptions_of_corruption": 800,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 6032,
+"upperwhisker": 6103,
+"Explained_by_4": 2536,
+"Explained_by_3": 82,
+"Explained_by_2": 587,
+"Explained_by_1": 1285
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 538,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 525,
+" Healthy_life_expectancy": "26",
+"Generosity": -73,
+"Country_name": "Lebanon",
+"lowerwhisker": 4477,
+" Social_support": "175",
+"Country_id": "74",
+" Log_GDP_per_capita": "868",
+"Standard_error_of_ladder_score": 55,
+"Logged_GDP_per_capita": 9626,
+"Social_support": 848,
+"Healthy_life_expectancy": 67355,
+"Perceptions_of_corruption": 898,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 4584,
+"upperwhisker": 4691,
+"Explained_by_4": 1736,
+"Explained_by_3": 140,
+"Explained_by_2": 595,
+"Explained_by_1": 1045
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 539,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 715,
+" Healthy_life_expectancy": "15",
+"Generosity": -131,
+"Country_name": "Lesotho",
+"lowerwhisker": 3276,
+" Social_support": "405",
+"Country_id": "75",
+" Log_GDP_per_capita": "731",
+"Standard_error_of_ladder_score": 120,
+"Logged_GDP_per_capita": 7926,
+"Social_support": 787,
+"Healthy_life_expectancy": 48700,
+"Perceptions_of_corruption": 915,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 3512,
+"upperwhisker": 3748,
+"Explained_by_4": 1800,
+"Explained_by_3": 103,
+"Explained_by_2": 7,
+"Explained_by_1": 451
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 540,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 735,
+" Healthy_life_expectancy": "57",
+"Generosity": 50,
+"Country_name": "Liberia",
+"lowerwhisker": 4417,
+" Social_support": "430",
+"Country_id": "76",
+" Log_GDP_per_capita": "580",
+"Standard_error_of_ladder_score": 106,
+"Logged_GDP_per_capita": 7288,
+"Healthy_life_expectancy": 56498,
+"Social_support": 720,
+"Perceptions_of_corruption": 850,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4625,
+"Explained_by_4": 2857,
+"upperwhisker": 4833,
+"Explained_by_3": 221,
+"Explained_by_2": 253,
+"Explained_by_1": 228
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 541,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 771,
+" Healthy_life_expectancy": "174",
+"Generosity": -87,
+"Country_name": "Libya",
+"lowerwhisker": 5262,
+" Social_support": "474",
+"Country_id": "77",
+" Log_GDP_per_capita": "821",
+"Standard_error_of_ladder_score": 76,
+"Logged_GDP_per_capita": 9622,
+"Social_support": 827,
+"Healthy_life_expectancy": 62300,
+"Perceptions_of_corruption": 667,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 5410,
+"upperwhisker": 5558,
+"Explained_by_4": 2331,
+"Explained_by_3": 131,
+"Explained_by_2": 435,
+"Explained_by_1": 1044
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 542,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 773,
+" Healthy_life_expectancy": "73",
+"Generosity": -203,
+"Country_name": "Lithuania",
+"lowerwhisker": 6167,
+" Social_support": "476",
+"Country_id": "78",
+" Log_GDP_per_capita": "1065",
+"Standard_error_of_ladder_score": 45,
+"Logged_GDP_per_capita": 10499,
+"Social_support": 935,
+"Healthy_life_expectancy": 67906,
+"Perceptions_of_corruption": 826,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 6255,
+"upperwhisker": 6344,
+"Explained_by_4": 2624,
+"Explained_by_3": 56,
+"Explained_by_2": 612,
+"Explained_by_1": 1350
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 543,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 907,
+" Healthy_life_expectancy": "353",
+"Generosity": -34,
+"Country_name": "Luxembourg",
+"lowerwhisker": 7252,
+" Social_support": "639",
+"Country_id": "79",
+" Log_GDP_per_capita": "1003",
+"Standard_error_of_ladder_score": 37,
+"Logged_GDP_per_capita": 11647,
+"Social_support": 908,
+"Healthy_life_expectancy": 72600,
+"Perceptions_of_corruption": 386,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7324,
+"upperwhisker": 7396,
+"Explained_by_4": 2653,
+"Explained_by_3": 166,
+"Explained_by_2": 760,
+"Explained_by_1": 1751
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 544,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 552,
+" Healthy_life_expectancy": "87",
+"Generosity": -5,
+"Country_name": "Madagascar",
+"lowerwhisker": 4068,
+" Social_support": "207",
+"Country_id": "80",
+" Log_GDP_per_capita": "503",
+"Standard_error_of_ladder_score": 72,
+"Logged_GDP_per_capita": 7396,
+"Social_support": 686,
+"Healthy_life_expectancy": 59305,
+"Perceptions_of_corruption": 803,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4208,
+"upperwhisker": 4349,
+"Explained_by_4": 2620,
+"Explained_by_3": 185,
+"Explained_by_2": 341,
+"Explained_by_1": 266
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 545,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 780,
+" Healthy_life_expectancy": "134",
+"Generosity": 38,
+"Country_name": "Malawi",
+"lowerwhisker": 3419,
+" Social_support": "484",
+"Country_id": "81",
+" Log_GDP_per_capita": "168",
+"Standard_error_of_ladder_score": 92,
+"Logged_GDP_per_capita": 6958,
+"Healthy_life_expectancy": 57948,
+"Social_support": 537,
+"Perceptions_of_corruption": 729,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 3600,
+"Explained_by_4": 2190,
+"upperwhisker": 3781,
+"Explained_by_3": 213,
+"Explained_by_2": 298,
+"Explained_by_1": 113
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 546,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 895,
+" Healthy_life_expectancy": "64",
+"Generosity": 125,
+"Country_name": "Malaysia",
+"lowerwhisker": 5289,
+" Social_support": "624",
+"Country_id": "82",
+" Log_GDP_per_capita": "797",
+"Standard_error_of_ladder_score": 49,
+"Logged_GDP_per_capita": 10238,
+"Healthy_life_expectancy": 67102,
+"Social_support": 817,
+"Perceptions_of_corruption": 839,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "8",
+"Ladder_score": 5384,
+"Explained_by_4": 1784,
+"upperwhisker": 5480,
+"Explained_by_3": 270,
+"Explained_by_2": 587,
+"Explained_by_1": 1259
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 547,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 854,
+" Healthy_life_expectancy": "73",
+"Generosity": 24,
+"Country_name": "Maldives",
+"lowerwhisker": 5057,
+" Social_support": "575",
+"Country_id": "83",
+" Log_GDP_per_capita": "1015",
+"Standard_error_of_ladder_score": 72,
+"Logged_GDP_per_capita": 9826,
+"Healthy_life_expectancy": 70600,
+"Social_support": 913,
+"Perceptions_of_corruption": 825,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "7",
+"Ladder_score": 5198,
+"Explained_by_4": 1520,
+"upperwhisker": 5339,
+"Explained_by_3": 204,
+"Explained_by_2": 697,
+"Explained_by_1": 1115
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 548,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 697,
+" Healthy_life_expectancy": "72",
+"Generosity": -36,
+"Country_name": "Mali",
+"lowerwhisker": 4563,
+" Social_support": "384",
+"Country_id": "84",
+" Log_GDP_per_capita": "590",
+"Standard_error_of_ladder_score": 82,
+"Logged_GDP_per_capita": 7744,
+"Healthy_life_expectancy": 51969,
+"Social_support": 724,
+"Perceptions_of_corruption": 827,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4723,
+"Explained_by_4": 3016,
+"upperwhisker": 4884,
+"Explained_by_3": 164,
+"Explained_by_2": 110,
+"Explained_by_1": 387
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 549,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 927,
+" Healthy_life_expectancy": "183",
+"Generosity": 133,
+"Country_name": "Malta",
+"lowerwhisker": 6516,
+" Social_support": "664",
+"Country_id": "85",
+" Log_GDP_per_capita": "1055",
+"Standard_error_of_ladder_score": 44,
+"Logged_GDP_per_capita": 10674,
+"Healthy_life_expectancy": 72200,
+"Social_support": 931,
+"Perceptions_of_corruption": 653,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 6602,
+"Explained_by_4": 2268,
+"upperwhisker": 6688,
+"Explained_by_3": 275,
+"Explained_by_2": 747,
+"Explained_by_1": 1411
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 550,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 561,
+" Healthy_life_expectancy": "133",
+"Generosity": -106,
+"Country_name": "Mauritania",
+"lowerwhisker": 4090,
+" Social_support": "218",
+"Country_id": "86",
+" Log_GDP_per_capita": "749",
+"Standard_error_of_ladder_score": 70,
+"Logged_GDP_per_capita": 8542,
+"Social_support": 795,
+"Healthy_life_expectancy": 57161,
+"Perceptions_of_corruption": 731,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4227,
+"upperwhisker": 4365,
+"Explained_by_4": 2069,
+"Explained_by_3": 119,
+"Explained_by_2": 273,
+"Explained_by_1": 666
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 551,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 867,
+" Healthy_life_expectancy": "96",
+"Generosity": -54,
+"Country_name": "Mauritius",
+"lowerwhisker": 5933,
+" Social_support": "590",
+"Country_id": "87",
+" Log_GDP_per_capita": "996",
+"Standard_error_of_ladder_score": 59,
+"Logged_GDP_per_capita": 10008,
+"Social_support": 905,
+"Healthy_life_expectancy": 66701,
+"Perceptions_of_corruption": 789,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 6049,
+"upperwhisker": 6165,
+"Explained_by_4": 2462,
+"Explained_by_3": 153,
+"Explained_by_2": 574,
+"Explained_by_1": 1178
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 552,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 862,
+" Healthy_life_expectancy": "89",
+"Generosity": -147,
+"Country_name": "Mexico",
+"lowerwhisker": 6213,
+" Social_support": "585",
+"Country_id": "88",
+" Log_GDP_per_capita": "830",
+"Standard_error_of_ladder_score": 53,
+"Logged_GDP_per_capita": 9859,
+"Social_support": 831,
+"Healthy_life_expectancy": 68597,
+"Perceptions_of_corruption": 799,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 6317,
+"upperwhisker": 6420,
+"Explained_by_4": 2961,
+"Explained_by_3": 92,
+"Explained_by_2": 634,
+"Explained_by_1": 1126
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 553,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 822,
+" Healthy_life_expectancy": "13",
+"Generosity": -79,
+"Country_name": "Moldova",
+"lowerwhisker": 5677,
+" Social_support": "536",
+"Country_id": "89",
+" Log_GDP_per_capita": "888",
+"Standard_error_of_ladder_score": 46,
+"Logged_GDP_per_capita": 9454,
+"Social_support": 857,
+"Healthy_life_expectancy": 65699,
+"Perceptions_of_corruption": 918,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 5766,
+"upperwhisker": 5856,
+"Explained_by_4": 2665,
+"Explained_by_3": 137,
+"Explained_by_2": 542,
+"Explained_by_1": 985
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 554,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 708,
+" Healthy_life_expectancy": "53",
+"Generosity": 116,
+"Country_name": "Mongolia",
+"lowerwhisker": 5595,
+" Social_support": "397",
+"Country_id": "90",
+" Log_GDP_per_capita": "1065",
+"Standard_error_of_ladder_score": 42,
+"Logged_GDP_per_capita": 9400,
+"Healthy_life_expectancy": 62500,
+"Social_support": 935,
+"Perceptions_of_corruption": 856,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "3",
+"Ladder_score": 5677,
+"Explained_by_4": 2492,
+"upperwhisker": 5760,
+"Explained_by_3": 263,
+"Explained_by_2": 442,
+"Explained_by_1": 966
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 555,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 708,
+" Healthy_life_expectancy": "81",
+"Generosity": -34,
+"Country_name": "Montenegro",
+"lowerwhisker": 5475,
+" Social_support": "397",
+"Country_id": "91",
+" Log_GDP_per_capita": "891",
+"Standard_error_of_ladder_score": 54,
+"Logged_GDP_per_capita": 9940,
+"Social_support": 858,
+"Healthy_life_expectancy": 68699,
+"Perceptions_of_corruption": 812,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 5581,
+"upperwhisker": 5686,
+"Explained_by_4": 2254,
+"Explained_by_3": 166,
+"Explained_by_2": 637,
+"Explained_by_1": 1155
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 556,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 774,
+" Healthy_life_expectancy": "88",
+"Generosity": -236,
+"Country_name": "Morocco",
+"lowerwhisker": 4800,
+" Social_support": "477",
+"Country_id": "92",
+" Log_GDP_per_capita": "219",
+"Standard_error_of_ladder_score": 60,
+"Logged_GDP_per_capita": 8903,
+"Social_support": 560,
+"Healthy_life_expectancy": 66208,
+"Perceptions_of_corruption": 801,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 4918,
+"upperwhisker": 5036,
+"Explained_by_4": 2749,
+"Explained_by_3": 34,
+"Explained_by_2": 558,
+"Explained_by_1": 792
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 557,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 882,
+" Healthy_life_expectancy": "163",
+"Generosity": 61,
+"Country_name": "Mozambique",
+"lowerwhisker": 4592,
+" Social_support": "608",
+"Country_id": "93",
+" Log_GDP_per_capita": "634",
+"Standard_error_of_ladder_score": 103,
+"Logged_GDP_per_capita": 7158,
+"Healthy_life_expectancy": 54706,
+"Social_support": 744,
+"Perceptions_of_corruption": 684,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4794,
+"Explained_by_4": 2783,
+"upperwhisker": 4997,
+"Explained_by_3": 228,
+"Explained_by_2": 196,
+"Explained_by_1": 183
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 558,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 876,
+" Healthy_life_expectancy": "178",
+"Generosity": 509,
+"Country_name": "Myanmar",
+"lowerwhisker": 4324,
+" Social_support": "601",
+"Country_id": "94",
+" Log_GDP_per_capita": "713",
+"Standard_error_of_ladder_score": 52,
+"Logged_GDP_per_capita": 8541,
+"Healthy_life_expectancy": 59302,
+"Social_support": 779,
+"Perceptions_of_corruption": 660,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "8",
+"Ladder_score": 4426,
+"Explained_by_4": 1407,
+"upperwhisker": 4527,
+"Explained_by_3": 520,
+"Explained_by_2": 341,
+"Explained_by_1": 666
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 559,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 719,
+" Healthy_life_expectancy": "59",
+"Generosity": -149,
+"Country_name": "Namibia",
+"lowerwhisker": 4448,
+" Social_support": "411",
+"Country_id": "95",
+" Log_GDP_per_capita": "801",
+"Standard_error_of_ladder_score": 64,
+"Logged_GDP_per_capita": 9161,
+"Social_support": 818,
+"Healthy_life_expectancy": 56799,
+"Perceptions_of_corruption": 847,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4574,
+"upperwhisker": 4700,
+"Explained_by_4": 2068,
+"Explained_by_3": 91,
+"Explained_by_2": 262,
+"Explained_by_1": 882
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 560,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 782,
+" Healthy_life_expectancy": "135",
+"Generosity": 152,
+"Country_name": "Nepal",
+"lowerwhisker": 5132,
+" Social_support": "488",
+"Country_id": "96",
+" Log_GDP_per_capita": "702",
+"Standard_error_of_ladder_score": 70,
+"Logged_GDP_per_capita": 8120,
+"Healthy_life_expectancy": 64233,
+"Social_support": 774,
+"Perceptions_of_corruption": 727,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "7",
+"Ladder_score": 5269,
+"Explained_by_4": 2642,
+"upperwhisker": 5406,
+"Explained_by_3": 287,
+"Explained_by_2": 496,
+"Explained_by_1": 519
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 561,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 913,
+" Healthy_life_expectancy": "384",
+"Generosity": 175,
+"Country_name": "Netherlands",
+"lowerwhisker": 7410,
+" Social_support": "647",
+"Country_id": "97",
+" Log_GDP_per_capita": "1079",
+"Standard_error_of_ladder_score": 27,
+"Logged_GDP_per_capita": 10932,
+"Healthy_life_expectancy": 72400,
+"Social_support": 942,
+"Perceptions_of_corruption": 338,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7464,
+"Explained_by_4": 2798,
+"upperwhisker": 7518,
+"Explained_by_3": 302,
+"Explained_by_2": 753,
+"Explained_by_1": 1501
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 562,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 929,
+" Healthy_life_expectancy": "445",
+"Generosity": 134,
+"Country_name": "New Zealand",
+"lowerwhisker": 7198,
+" Social_support": "665",
+"Country_id": "98",
+" Log_GDP_per_capita": "1094",
+"Standard_error_of_ladder_score": 40,
+"Logged_GDP_per_capita": 10643,
+"Healthy_life_expectancy": 73400,
+"Social_support": 948,
+"Perceptions_of_corruption": 242,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "6",
+"Ladder_score": 7277,
+"Explained_by_4": 2612,
+"upperwhisker": 7355,
+"Explained_by_3": 276,
+"Explained_by_2": 785,
+"Explained_by_1": 1400
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 563,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 836,
+" Healthy_life_expectancy": "176",
+"Generosity": 20,
+"Country_name": "Nicaragua",
+"lowerwhisker": 5810,
+" Social_support": "553",
+"Country_id": "99",
+" Log_GDP_per_capita": "904",
+"Standard_error_of_ladder_score": 83,
+"Logged_GDP_per_capita": 8620,
+"Healthy_life_expectancy": 67657,
+"Social_support": 864,
+"Perceptions_of_corruption": 664,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 5972,
+"Explained_by_4": 2841,
+"upperwhisker": 6134,
+"Explained_by_3": 201,
+"Explained_by_2": 604,
+"Explained_by_1": 693
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 564,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 806,
+" Healthy_life_expectancy": "157",
+"Generosity": 18,
+"Country_name": "Niger",
+"lowerwhisker": 4875,
+" Social_support": "516",
+"Country_id": "100",
+" Log_GDP_per_capita": "402",
+"Standard_error_of_ladder_score": 102,
+"Logged_GDP_per_capita": 7098,
+"Healthy_life_expectancy": 53780,
+"Social_support": 641,
+"Perceptions_of_corruption": 693,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 5074,
+"Explained_by_4": 3470,
+"upperwhisker": 5273,
+"Explained_by_3": 200,
+"Explained_by_2": 167,
+"Explained_by_1": 162
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 565,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 737,
+" Healthy_life_expectancy": "39",
+"Generosity": 37,
+"Country_name": "Nigeria",
+"lowerwhisker": 4658,
+" Social_support": "433",
+"Country_id": "101",
+" Log_GDP_per_capita": "625",
+"Standard_error_of_ladder_score": 52,
+"Logged_GDP_per_capita": 8533,
+"Healthy_life_expectancy": 50102,
+"Social_support": 740,
+"Perceptions_of_corruption": 878,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4759,
+"Explained_by_4": 2736,
+"upperwhisker": 4861,
+"Explained_by_3": 212,
+"Explained_by_2": 51,
+"Explained_by_1": 663
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 566,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 795,
+" Healthy_life_expectancy": "200",
+"Generosity": 12,
+"Country_name": "North Cyprus",
+"lowerwhisker": 5435,
+" Social_support": "503",
+"Country_id": "102",
+" Log_GDP_per_capita": "806",
+"Standard_error_of_ladder_score": 51,
+"Logged_GDP_per_capita": 10576,
+"Healthy_life_expectancy": 73898,
+"Social_support": 820,
+"Perceptions_of_corruption": 626,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 5536,
+"Explained_by_4": 1653,
+"upperwhisker": 5636,
+"Explained_by_3": 196,
+"Explained_by_2": 801,
+"Explained_by_1": 1377
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 567,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 751,
+" Healthy_life_expectancy": "22",
+"Generosity": 38,
+"Country_name": "North Macedonia",
+"lowerwhisker": 5001,
+" Social_support": "450",
+"Country_id": "103",
+" Log_GDP_per_capita": "772",
+"Standard_error_of_ladder_score": 51,
+"Logged_GDP_per_capita": 9693,
+"Social_support": 805,
+"Healthy_life_expectancy": 65474,
+"Perceptions_of_corruption": 905,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 5101,
+"upperwhisker": 5202,
+"Explained_by_4": 2042,
+"Explained_by_3": 212,
+"Explained_by_2": 535,
+"Explained_by_1": 1068
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 568,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 960,
+" Healthy_life_expectancy": "427",
+"Generosity": 93,
+"Country_name": "Norway",
+"lowerwhisker": 7323,
+" Social_support": "703",
+"Country_id": "104",
+" Log_GDP_per_capita": "1108",
+"Standard_error_of_ladder_score": 35,
+"Logged_GDP_per_capita": 11053,
+"Healthy_life_expectancy": 73300,
+"Social_support": 954,
+"Perceptions_of_corruption": 270,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7392,
+"Explained_by_4": 2580,
+"upperwhisker": 7462,
+"Explained_by_3": 249,
+"Explained_by_2": 782,
+"Explained_by_1": 1543
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 569,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 726,
+" Healthy_life_expectancy": "97",
+"Generosity": 98,
+"Country_name": "Pakistan",
+"lowerwhisker": 4802,
+" Social_support": "418",
+"Country_id": "105",
+" Log_GDP_per_capita": "423",
+"Standard_error_of_ladder_score": 68,
+"Logged_GDP_per_capita": 8458,
+"Healthy_life_expectancy": 58709,
+"Social_support": 651,
+"Perceptions_of_corruption": 787,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "7",
+"Ladder_score": 4934,
+"Explained_by_4": 2784,
+"upperwhisker": 5066,
+"Explained_by_3": 252,
+"Explained_by_2": 322,
+"Explained_by_1": 637
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 570,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 653,
+" Healthy_life_expectancy": "75",
+"Generosity": -163,
+"Country_name": "Palestinian Territories",
+"lowerwhisker": 4384,
+" Social_support": "330",
+"Country_id": "106",
+" Log_GDP_per_capita": "819",
+"Standard_error_of_ladder_score": 67,
+"Logged_GDP_per_capita": 8485,
+"Healthy_life_expectancy": 62250,
+"Social_support": 826,
+"Perceptions_of_corruption": 821,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 4517,
+"upperwhisker": 4649,
+"Explained_by_4": 2131,
+"Explained_by_3": 82,
+"Explained_by_2": 434,
+"Explained_by_1": 646
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 571,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 872,
+" Healthy_life_expectancy": "53",
+"Generosity": -166,
+"Country_name": "Panama",
+"lowerwhisker": 6036,
+" Social_support": "596",
+"Country_id": "107",
+" Log_GDP_per_capita": "976",
+"Standard_error_of_ladder_score": 73,
+"Logged_GDP_per_capita": 10350,
+"Social_support": 896,
+"Healthy_life_expectancy": 69652,
+"Perceptions_of_corruption": 856,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 6180,
+"upperwhisker": 6323,
+"Explained_by_4": 2509,
+"Explained_by_3": 79,
+"Explained_by_2": 667,
+"Explained_by_1": 1298
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 572,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 876,
+" Healthy_life_expectancy": "37",
+"Generosity": 28,
+"Country_name": "Paraguay",
+"lowerwhisker": 5473,
+" Social_support": "602",
+"Country_id": "108",
+" Log_GDP_per_capita": "970",
+"Standard_error_of_ladder_score": 92,
+"Logged_GDP_per_capita": 9448,
+"Healthy_life_expectancy": 65900,
+"Social_support": 893,
+"Perceptions_of_corruption": 882,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 5653,
+"Explained_by_4": 2306,
+"upperwhisker": 5832,
+"Explained_by_3": 206,
+"Explained_by_2": 549,
+"Explained_by_1": 983
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 573,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 822,
+" Healthy_life_expectancy": "31",
+"Generosity": -154,
+"Country_name": "Peru",
+"lowerwhisker": 5692,
+" Social_support": "536",
+"Country_id": "109",
+" Log_GDP_per_capita": "833",
+"Standard_error_of_ladder_score": 75,
+"Logged_GDP_per_capita": 9458,
+"Healthy_life_expectancy": 68250,
+"Social_support": 832,
+"Perceptions_of_corruption": 891,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 5840,
+"Explained_by_4": 2744,
+"upperwhisker": 5988,
+"Explained_by_3": 87,
+"Explained_by_2": 623,
+"Explained_by_1": 986
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 574,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 917,
+" Healthy_life_expectancy": "126",
+"Generosity": -97,
+"Country_name": "Philippines",
+"lowerwhisker": 5778,
+" Social_support": "651",
+"Country_id": "110",
+" Log_GDP_per_capita": "828",
+"Standard_error_of_ladder_score": 52,
+"Logged_GDP_per_capita": 9076,
+"Social_support": 830,
+"Healthy_life_expectancy": 62000,
+"Perceptions_of_corruption": 742,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "8",
+"Ladder_score": 5880,
+"upperwhisker": 5982,
+"Explained_by_4": 2872,
+"Explained_by_3": 125,
+"Explained_by_2": 426,
+"Explained_by_1": 853
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 575,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 841,
+" Healthy_life_expectancy": "130",
+"Generosity": -165,
+"Country_name": "Poland",
+"lowerwhisker": 6087,
+" Social_support": "558",
+"Country_id": "111",
+" Log_GDP_per_capita": "982",
+"Standard_error_of_ladder_score": 40,
+"Logged_GDP_per_capita": 10382,
+"Social_support": 898,
+"Healthy_life_expectancy": 69702,
+"Perceptions_of_corruption": 735,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 6166,
+"upperwhisker": 6245,
+"Explained_by_4": 2438,
+"Explained_by_3": 80,
+"Explained_by_2": 668,
+"Explained_by_1": 1309
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 576,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 892,
+" Healthy_life_expectancy": "33",
+"Generosity": -244,
+"Country_name": "Portugal",
+"lowerwhisker": 5821,
+" Social_support": "621",
+"Country_id": "112",
+" Log_GDP_per_capita": "939",
+"Standard_error_of_ladder_score": 55,
+"Logged_GDP_per_capita": 10421,
+"Social_support": 879,
+"Healthy_life_expectancy": 72600,
+"Perceptions_of_corruption": 887,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 5929,
+"upperwhisker": 6037,
+"Explained_by_4": 2225,
+"Explained_by_3": 29,
+"Explained_by_2": 760,
+"Explained_by_1": 1323
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 577,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 845,
+" Healthy_life_expectancy": "1",
+"Generosity": -219,
+"Country_name": "Romania",
+"lowerwhisker": 6027,
+" Social_support": "564",
+"Country_id": "113",
+" Log_GDP_per_capita": "832",
+"Standard_error_of_ladder_score": 57,
+"Logged_GDP_per_capita": 10284,
+"Social_support": 832,
+"Healthy_life_expectancy": 67355,
+"Perceptions_of_corruption": 938,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 6140,
+"upperwhisker": 6253,
+"Explained_by_4": 2830,
+"Explained_by_3": 45,
+"Explained_by_2": 595,
+"Explained_by_1": 1275
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 578,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 718,
+" Healthy_life_expectancy": "60",
+"Generosity": -111,
+"Country_name": "Russia",
+"lowerwhisker": 5413,
+" Social_support": "409",
+"Country_id": "114",
+" Log_GDP_per_capita": "992",
+"Standard_error_of_ladder_score": 33,
+"Logged_GDP_per_capita": 10189,
+"Social_support": 903,
+"Healthy_life_expectancy": 64703,
+"Perceptions_of_corruption": 845,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 5477,
+"upperwhisker": 5541,
+"Explained_by_4": 2148,
+"Explained_by_3": 115,
+"Explained_by_2": 511,
+"Explained_by_1": 1241
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 579,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 897,
+" Healthy_life_expectancy": "493",
+"Generosity": 61,
+"Country_name": "Rwanda",
+"lowerwhisker": 3282,
+" Social_support": "627",
+"Country_id": "115",
+" Log_GDP_per_capita": "202",
+"Standard_error_of_ladder_score": 68,
+"Logged_GDP_per_capita": 7676,
+"Healthy_life_expectancy": 61400,
+"Social_support": 552,
+"Perceptions_of_corruption": 167,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 3415,
+"Explained_by_4": 1095,
+"upperwhisker": 3548,
+"Explained_by_3": 227,
+"Explained_by_2": 407,
+"Explained_by_1": 364
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 580,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 877,
+" Healthy_life_expectancy": "163",
+"Generosity": -149,
+"Country_name": "Saudi Arabia",
+"lowerwhisker": 6384,
+" Social_support": "603",
+"Country_id": "116",
+" Log_GDP_per_capita": "964",
+"Standard_error_of_ladder_score": 56,
+"Logged_GDP_per_capita": 10743,
+"Social_support": 891,
+"Healthy_life_expectancy": 66603,
+"Perceptions_of_corruption": 684,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 6494,
+"upperwhisker": 6604,
+"Explained_by_4": 2668,
+"Explained_by_3": 90,
+"Explained_by_2": 571,
+"Explained_by_1": 1435
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 581,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 695,
+" Healthy_life_expectancy": "88",
+"Generosity": -46,
+"Country_name": "Senegal",
+"lowerwhisker": 4998,
+" Social_support": "381",
+"Country_id": "117",
+" Log_GDP_per_capita": "558",
+"Standard_error_of_ladder_score": 68,
+"Logged_GDP_per_capita": 8118,
+"Social_support": 710,
+"Healthy_life_expectancy": 59802,
+"Perceptions_of_corruption": 801,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 5132,
+"upperwhisker": 5266,
+"Explained_by_4": 3071,
+"Explained_by_3": 158,
+"Explained_by_2": 357,
+"Explained_by_1": 518
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 582,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 778,
+" Healthy_life_expectancy": "66",
+"Generosity": 2,
+"Country_name": "Serbia",
+"lowerwhisker": 5974,
+" Social_support": "482",
+"Country_id": "118",
+" Log_GDP_per_capita": "924",
+"Standard_error_of_ladder_score": 53,
+"Logged_GDP_per_capita": 9787,
+"Healthy_life_expectancy": 68600,
+"Social_support": 873,
+"Perceptions_of_corruption": 835,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 6078,
+"Explained_by_4": 2682,
+"upperwhisker": 6181,
+"Explained_by_3": 189,
+"Explained_by_2": 634,
+"Explained_by_1": 1101
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 583,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 717,
+" Healthy_life_expectancy": "47",
+"Generosity": 84,
+"Country_name": "Sierra Leone",
+"lowerwhisker": 3698,
+" Social_support": "408",
+"Country_id": "119",
+" Log_GDP_per_capita": "377",
+"Standard_error_of_ladder_score": 77,
+"Logged_GDP_per_capita": 7434,
+"Healthy_life_expectancy": 51651,
+"Social_support": 630,
+"Perceptions_of_corruption": 866,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 3849,
+"Explained_by_4": 2396,
+"upperwhisker": 4001,
+"Explained_by_3": 243,
+"Explained_by_2": 100,
+"Explained_by_1": 279
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 584,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 927,
+" Healthy_life_expectancy": "547",
+"Generosity": -18,
+"Country_name": "Singapore",
+"lowerwhisker": 6293,
+" Social_support": "664",
+"Country_id": "120",
+" Log_GDP_per_capita": "1019",
+"Standard_error_of_ladder_score": 43,
+"Logged_GDP_per_capita": 11488,
+"Social_support": 915,
+"Healthy_life_expectancy": 76953,
+"Perceptions_of_corruption": 82,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "8",
+"Ladder_score": 6377,
+"upperwhisker": 6460,
+"Explained_by_4": 1379,
+"Explained_by_3": 176,
+"Explained_by_2": 897,
+"Explained_by_1": 1695
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 585,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 766,
+" Healthy_life_expectancy": "18",
+"Generosity": -124,
+"Country_name": "Slovakia",
+"lowerwhisker": 6251,
+" Social_support": "468",
+"Country_id": "121",
+" Log_GDP_per_capita": "1066",
+"Standard_error_of_ladder_score": 41,
+"Logged_GDP_per_capita": 10369,
+"Social_support": 936,
+"Healthy_life_expectancy": 69201,
+"Perceptions_of_corruption": 911,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 6331,
+"upperwhisker": 6411,
+"Explained_by_4": 2714,
+"Explained_by_3": 107,
+"Explained_by_2": 653,
+"Explained_by_1": 1304
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 586,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 949,
+" Healthy_life_expectancy": "85",
+"Generosity": -101,
+"Country_name": "Slovenia",
+"lowerwhisker": 6376,
+" Social_support": "690",
+"Country_id": "122",
+" Log_GDP_per_capita": "1093",
+"Standard_error_of_ladder_score": 43,
+"Logged_GDP_per_capita": 10529,
+"Social_support": 948,
+"Healthy_life_expectancy": 71400,
+"Perceptions_of_corruption": 806,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "1",
+"Ladder_score": 6461,
+"upperwhisker": 6546,
+"Explained_by_4": 2388,
+"Explained_by_3": 122,
+"Explained_by_2": 722,
+"Explained_by_1": 1360
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 587,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 749,
+" Healthy_life_expectancy": "51",
+"Generosity": -67,
+"Country_name": "South Africa",
+"lowerwhisker": 4839,
+" Social_support": "447",
+"Country_id": "123",
+" Log_GDP_per_capita": "895",
+"Standard_error_of_ladder_score": 60,
+"Logged_GDP_per_capita": 9403,
+"Social_support": 860,
+"Healthy_life_expectancy": 56904,
+"Perceptions_of_corruption": 860,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4956,
+"upperwhisker": 5074,
+"Explained_by_4": 2187,
+"Explained_by_3": 144,
+"Explained_by_2": 265,
+"Explained_by_1": 967
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 588,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 672,
+" Healthy_life_expectancy": "135",
+"Generosity": -83,
+"Country_name": "South Korea",
+"lowerwhisker": 5763,
+" Social_support": "353",
+"Country_id": "124",
+" Log_GDP_per_capita": "758",
+"Standard_error_of_ladder_score": 42,
+"Logged_GDP_per_capita": 10651,
+"Social_support": 799,
+"Healthy_life_expectancy": 73900,
+"Perceptions_of_corruption": 727,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "3",
+"Ladder_score": 5845,
+"upperwhisker": 5928,
+"Explained_by_4": 2262,
+"Explained_by_3": 134,
+"Explained_by_2": 801,
+"Explained_by_1": 1403
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 589,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 761,
+" Healthy_life_expectancy": "124",
+"Generosity": -81,
+"Country_name": "Spain",
+"lowerwhisker": 6408,
+" Social_support": "462",
+"Country_id": "125",
+" Log_GDP_per_capita": "1057",
+"Standard_error_of_ladder_score": 42,
+"Logged_GDP_per_capita": 10571,
+"Social_support": 932,
+"Healthy_life_expectancy": 74700,
+"Perceptions_of_corruption": 745,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 6491,
+"upperwhisker": 6574,
+"Explained_by_4": 2513,
+"Explained_by_3": 135,
+"Explained_by_2": 826,
+"Explained_by_1": 1375
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 590,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 841,
+" Healthy_life_expectancy": "49",
+"Generosity": 79,
+"Country_name": "Sri Lanka",
+"lowerwhisker": 4196,
+" Social_support": "559",
+"Country_id": "126",
+" Log_GDP_per_capita": "820",
+"Standard_error_of_ladder_score": 66,
+"Logged_GDP_per_capita": 9470,
+"Healthy_life_expectancy": 67299,
+"Social_support": 827,
+"Perceptions_of_corruption": 863,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "7",
+"Ladder_score": 4325,
+"Explained_by_4": 1075,
+"upperwhisker": 4454,
+"Explained_by_3": 239,
+"Explained_by_2": 593,
+"Explained_by_1": 990
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 591,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 647,
+" Healthy_life_expectancy": "147",
+"Generosity": -185,
+"Country_name": "Swaziland",
+"lowerwhisker": 4168,
+" Social_support": "323",
+"Country_id": "127",
+" Log_GDP_per_capita": "693",
+"Standard_error_of_ladder_score": 71,
+"Logged_GDP_per_capita": 9065,
+"Social_support": 770,
+"Healthy_life_expectancy": 50833,
+"Perceptions_of_corruption": 708,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4308,
+"upperwhisker": 4448,
+"Explained_by_4": 2155,
+"Explained_by_3": 67,
+"Explained_by_2": 74,
+"Explained_by_1": 849
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 592,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 945,
+" Healthy_life_expectancy": "448",
+"Generosity": 86,
+"Country_name": "Sweden",
+"lowerwhisker": 7293,
+" Social_support": "685",
+"Country_id": "128",
+" Log_GDP_per_capita": "1062",
+"Standard_error_of_ladder_score": 36,
+"Logged_GDP_per_capita": 10867,
+"Healthy_life_expectancy": 72700,
+"Social_support": 934,
+"Perceptions_of_corruption": 237,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7363,
+"Explained_by_4": 2683,
+"upperwhisker": 7433,
+"Explained_by_3": 244,
+"Explained_by_2": 763,
+"Explained_by_1": 1478
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 593,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 919,
+" Healthy_life_expectancy": "413",
+"Generosity": 25,
+"Country_name": "Switzerland",
+"lowerwhisker": 7500,
+" Social_support": "653",
+"Country_id": "129",
+" Log_GDP_per_capita": "1079",
+"Standard_error_of_ladder_score": 36,
+"Logged_GDP_per_capita": 11117,
+"Healthy_life_expectancy": 74400,
+"Social_support": 942,
+"Perceptions_of_corruption": 292,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7571,
+"Explained_by_4": 2839,
+"upperwhisker": 7643,
+"Explained_by_3": 204,
+"Explained_by_2": 816,
+"Explained_by_1": 1566
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 594,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 784,
+" Healthy_life_expectancy": "139",
+"Generosity": -70,
+"Country_name": "Taiwan Province of China",
+"lowerwhisker": 6510,
+" Social_support": "490",
+"Country_id": "130",
+" Log_GDP_per_capita": "982",
+"Standard_error_of_ladder_score": 38,
+"Logged_GDP_per_capita": 10871,
+"Healthy_life_expectancy": 69600,
+"Social_support": 898,
+"Perceptions_of_corruption": 721,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "3",
+"Ladder_score": 6584,
+"upperwhisker": 6659,
+"Explained_by_4": 2687,
+"Explained_by_3": 142,
+"Explained_by_2": 665,
+"Explained_by_1": 1480
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 595,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 832,
+" Healthy_life_expectancy": "247",
+"Generosity": -56,
+"Country_name": "Tajikistan",
+"lowerwhisker": 5400,
+" Social_support": "548",
+"Country_id": "131",
+" Log_GDP_per_capita": "895",
+"Standard_error_of_ladder_score": 34,
+"Logged_GDP_per_capita": 8091,
+"Social_support": 860,
+"Healthy_life_expectancy": 64281,
+"Perceptions_of_corruption": 553,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 5466,
+"upperwhisker": 5532,
+"Explained_by_4": 2619,
+"Explained_by_3": 152,
+"Explained_by_2": 498,
+"Explained_by_1": 508
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 596,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 833,
+" Healthy_life_expectancy": "231",
+"Generosity": 183,
+"Country_name": "Tanzania",
+"lowerwhisker": 3485,
+" Social_support": "549",
+"Country_id": "132",
+" Log_GDP_per_capita": "540",
+"Standard_error_of_ladder_score": 71,
+"Logged_GDP_per_capita": 7876,
+"Healthy_life_expectancy": 57999,
+"Social_support": 702,
+"Perceptions_of_corruption": 577,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 3623,
+"Explained_by_4": 1263,
+"upperwhisker": 3762,
+"Explained_by_3": 307,
+"Explained_by_2": 300,
+"Explained_by_1": 433
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 597,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 884,
+" Healthy_life_expectancy": "28",
+"Generosity": 287,
+"Country_name": "Thailand",
+"lowerwhisker": 5893,
+" Social_support": "611",
+"Country_id": "133",
+" Log_GDP_per_capita": "957",
+"Standard_error_of_ladder_score": 47,
+"Logged_GDP_per_capita": 9805,
+"Healthy_life_expectancy": 67401,
+"Social_support": 888,
+"Perceptions_of_corruption": 895,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "8",
+"Ladder_score": 5985,
+"Explained_by_4": 2309,
+"upperwhisker": 6077,
+"Explained_by_3": 375,
+"Explained_by_2": 596,
+"Explained_by_1": 1107
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 598,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 619,
+" Healthy_life_expectancy": "107",
+"Generosity": 32,
+"lowerwhisker": 3956,
+"Country_name": "Togo",
+" Social_support": "289",
+"Country_id": "134",
+" Log_GDP_per_capita": "239",
+"Logged_GDP_per_capita": 7362,
+"Standard_error_of_ladder_score": 77,
+"Healthy_life_expectancy": 54914,
+"Social_support": 569,
+"Perceptions_of_corruption": 772,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4107,
+"upperwhisker": 4258,
+"Explained_by_4": 2806,
+"Explained_by_3": 209,
+"Explained_by_2": 203,
+"Explained_by_1": 254
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 599,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 656,
+" Healthy_life_expectancy": "44",
+"Generosity": -201,
+"Country_name": "Tunisia",
+"lowerwhisker": 4484,
+" Social_support": "334",
+"Country_id": "135",
+" Log_GDP_per_capita": "515",
+"Standard_error_of_ladder_score": 58,
+"Logged_GDP_per_capita": 9266,
+"Social_support": 691,
+"Healthy_life_expectancy": 67201,
+"Perceptions_of_corruption": 870,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 4596,
+"upperwhisker": 4709,
+"Explained_by_4": 2138,
+"Explained_by_3": 57,
+"Explained_by_2": 590,
+"Explained_by_1": 919
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 600,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 576,
+" Healthy_life_expectancy": "104",
+"Generosity": -139,
+"Country_name": "Turkey",
+"lowerwhisker": 4857,
+" Social_support": "236",
+"Country_id": "136",
+" Log_GDP_per_capita": "809",
+"Standard_error_of_ladder_score": 46,
+"Logged_GDP_per_capita": 10240,
+"Social_support": 822,
+"Healthy_life_expectancy": 67199,
+"Perceptions_of_corruption": 776,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 4948,
+"upperwhisker": 5038,
+"Explained_by_4": 1852,
+"Explained_by_3": 97,
+"Explained_by_2": 590,
+"Explained_by_1": 1260
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 601,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 877,
+" Healthy_life_expectancy": "33",
+"Generosity": 273,
+"Country_name": "Turkmenistan",
+"lowerwhisker": 4996,
+" Social_support": "602",
+"Country_id": "137",
+" Log_GDP_per_capita": "1172",
+"Standard_error_of_ladder_score": 36,
+"Logged_GDP_per_capita": 9629,
+"Healthy_life_expectancy": 62409,
+"Social_support": 983,
+"Perceptions_of_corruption": 888,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 5066,
+"Explained_by_4": 1409,
+"upperwhisker": 5136,
+"Explained_by_3": 366,
+"Explained_by_2": 439,
+"Explained_by_1": 1046
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 602,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 709,
+" Healthy_life_expectancy": "54",
+"Generosity": 122,
+"Country_name": "Uganda",
+"lowerwhisker": 4493,
+" Social_support": "398",
+"Country_id": "138",
+" Log_GDP_per_capita": "718",
+"Standard_error_of_ladder_score": 73,
+"Logged_GDP_per_capita": 7677,
+"Healthy_life_expectancy": 56101,
+"Social_support": 781,
+"Perceptions_of_corruption": 855,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4636,
+"Explained_by_4": 2596,
+"upperwhisker": 4780,
+"Explained_by_3": 267,
+"Explained_by_2": 240,
+"Explained_by_1": 364
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 603,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 724,
+" Healthy_life_expectancy": "10",
+"Generosity": -11,
+"Country_name": "Ukraine",
+"lowerwhisker": 4773,
+" Social_support": "417",
+"Country_id": "139",
+" Log_GDP_per_capita": "958",
+"Standard_error_of_ladder_score": 52,
+"Logged_GDP_per_capita": 9436,
+"Social_support": 888,
+"Healthy_life_expectancy": 64902,
+"Perceptions_of_corruption": 924,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 4875,
+"upperwhisker": 4977,
+"Explained_by_4": 1813,
+"Explained_by_3": 181,
+"Explained_by_2": 517,
+"Explained_by_1": 979
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 604,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 932,
+" Healthy_life_expectancy": "223",
+"Generosity": 74,
+"Country_name": "United Arab Emirates",
+"lowerwhisker": 6484,
+" Social_support": "670",
+"Country_id": "140",
+" Log_GDP_per_capita": "860",
+"Standard_error_of_ladder_score": 39,
+"Logged_GDP_per_capita": 11085,
+"Social_support": 844,
+"Healthy_life_expectancy": 67333,
+"Perceptions_of_corruption": 589,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 6561,
+"upperwhisker": 6637,
+"Explained_by_4": 2422,
+"Explained_by_3": 236,
+"Explained_by_2": 594,
+"Explained_by_1": 1555
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 605,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 859,
+" Healthy_life_expectancy": "306",
+"Generosity": 233,
+"Country_name": "United Kingdom",
+"lowerwhisker": 6990,
+" Social_support": "580",
+"Country_id": "141",
+" Log_GDP_per_capita": "1062",
+"Standard_error_of_ladder_score": 38,
+"Logged_GDP_per_capita": 10707,
+"Healthy_life_expectancy": 72500,
+"Social_support": 934,
+"Perceptions_of_corruption": 459,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "10",
+"Ladder_score": 7064,
+"Explained_by_4": 2596,
+"upperwhisker": 7138,
+"Explained_by_3": 340,
+"Explained_by_2": 757,
+"Explained_by_1": 1423
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 606,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 837,
+" Healthy_life_expectancy": "154",
+"Generosity": 98,
+"Country_name": "United States",
+"lowerwhisker": 6856,
+" Social_support": "554",
+"Country_id": "142",
+" Log_GDP_per_capita": "1030",
+"Standard_error_of_ladder_score": 49,
+"Logged_GDP_per_capita": 11023,
+"Healthy_life_expectancy": 68200,
+"Social_support": 920,
+"Perceptions_of_corruption": 698,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "6",
+"Ladder_score": 6951,
+"Explained_by_4": 2807,
+"upperwhisker": 7047,
+"Explained_by_3": 252,
+"Explained_by_2": 621,
+"Explained_by_1": 1533
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 607,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 896,
+" Healthy_life_expectancy": "223",
+"Generosity": -92,
+"Country_name": "Uruguay",
+"lowerwhisker": 6341,
+" Social_support": "625",
+"Country_id": "143",
+" Log_GDP_per_capita": "1042",
+"Standard_error_of_ladder_score": 46,
+"Logged_GDP_per_capita": 9966,
+"Social_support": 925,
+"Healthy_life_expectancy": 69100,
+"Perceptions_of_corruption": 590,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 6431,
+"upperwhisker": 6521,
+"Explained_by_4": 2600,
+"Explained_by_3": 128,
+"Explained_by_2": 649,
+"Explained_by_1": 1164
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 608,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 970,
+" Healthy_life_expectancy": "271",
+"Generosity": 311,
+"Country_name": "Uzbekistan",
+"lowerwhisker": 6045,
+" Social_support": "716",
+"Country_id": "144",
+" Log_GDP_per_capita": "1027",
+"Standard_error_of_ladder_score": 68,
+"Logged_GDP_per_capita": 8836,
+"Healthy_life_expectancy": 65255,
+"Social_support": 918,
+"Perceptions_of_corruption": 515,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "2",
+"Ladder_score": 6179,
+"Explained_by_4": 2477,
+"upperwhisker": 6312,
+"Explained_by_3": 391,
+"Explained_by_2": 528,
+"Explained_by_1": 769
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 609,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 615,
+" Healthy_life_expectancy": "72",
+"Generosity": -169,
+"Country_name": "Venezuela",
+"lowerwhisker": 4767,
+" Social_support": "284",
+"Country_id": "145",
+" Log_GDP_per_capita": "897",
+"Standard_error_of_ladder_score": 64,
+"Logged_GDP_per_capita": 9073,
+"Social_support": 861,
+"Healthy_life_expectancy": 66700,
+"Perceptions_of_corruption": 827,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "4",
+"Ladder_score": 4892,
+"upperwhisker": 5017,
+"Explained_by_4": 2135,
+"Explained_by_3": 78,
+"Explained_by_2": 574,
+"Explained_by_1": 852
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 610,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 940,
+" Healthy_life_expectancy": "91",
+"Generosity": -98,
+"Country_name": "Vietnam",
+"lowerwhisker": 5334,
+" Social_support": "679",
+"Country_id": "146",
+" Log_GDP_per_capita": "873",
+"Standard_error_of_ladder_score": 39,
+"Logged_GDP_per_capita": 8973,
+"Social_support": 850,
+"Healthy_life_expectancy": 68034,
+"Perceptions_of_corruption": 796,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "8",
+"Ladder_score": 5411,
+"upperwhisker": 5488,
+"Explained_by_4": 2211,
+"Explained_by_3": 124,
+"Explained_by_2": 616,
+"Explained_by_1": 817
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 611,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 602,
+" Healthy_life_expectancy": "89",
+"Generosity": -147,
+"Country_name": "Yemen",
+"lowerwhisker": 3521,
+" Social_support": "268",
+"Country_id": "147",
+" Log_GDP_per_capita": "831",
+"Standard_error_of_ladder_score": 70,
+"Logged_GDP_per_capita": 7578,
+"Social_support": 832,
+"Healthy_life_expectancy": 57122,
+"Perceptions_of_corruption": 800,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "5",
+"Ladder_score": 3658,
+"upperwhisker": 3794,
+"Explained_by_4": 1776,
+"Explained_by_3": 92,
+"Explained_by_2": 272,
+"Explained_by_1": 329
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 612,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 782,
+" Healthy_life_expectancy": "74",
+"Generosity": 61,
+"Country_name": "Zambia",
+"lowerwhisker": 3938,
+" Social_support": "487",
+"Country_id": "148",
+" Log_GDP_per_capita": "552",
+"Standard_error_of_ladder_score": 69,
+"Logged_GDP_per_capita": 8145,
+"Healthy_life_expectancy": 55809,
+"Social_support": 708,
+"Perceptions_of_corruption": 823,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 4073,
+"Explained_by_4": 1975,
+"upperwhisker": 4209,
+"Explained_by_3": 227,
+"Explained_by_2": 231,
+"Explained_by_1": 528
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 613,
+"labels": [
+        "Paises"
+      ],
+"properties": {
+"Freedom_to_make_life_choices": 677,
+" Healthy_life_expectancy": "75",
+"Generosity": -47,
+"Country_name": "Zimbabwe",
+"lowerwhisker": 3030,
+" Social_support": "359",
+"Country_id": "149",
+" Log_GDP_per_capita": "649",
+"Standard_error_of_ladder_score": 58,
+"Logged_GDP_per_capita": 7943,
+"Social_support": 750,
+"Healthy_life_expectancy": 56201,
+"Perceptions_of_corruption": 821,
+"Ladder_score_in_Dystopia": 2430,
+"id_regiao": "9",
+"Ladder_score": 3145,
+"upperwhisker": 3259,
+"Explained_by_4": 1205,
+"Explained_by_3": 157,
+"Explained_by_2": 243,
+"Explained_by_1": 457
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 614,
+"labels": [
+        "Regiao"
+      ],
+"properties": {
+"id_regiao": "1",
+"Regional_indicator": "Central and Eastern Europe"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 615,
+"labels": [
+        "Regiao"
+      ],
+"properties": {
+"id_regiao": "2",
+"Regional_indicator": "Commonwealth of Independent States"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 616,
+"labels": [
+        "Regiao"
+      ],
+"properties": {
+"id_regiao": "3",
+"Regional_indicator": "East Asia"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 617,
+"labels": [
+        "Regiao"
+      ],
+"properties": {
+"id_regiao": "4",
+"Regional_indicator": "Latin America and Caribbean"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 618,
+"labels": [
+        "Regiao"
+      ],
+"properties": {
+"id_regiao": "5",
+"Regional_indicator": "Middle East and North Africa"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 619,
+"labels": [
+        "Regiao"
+      ],
+"properties": {
+"id_regiao": "6",
+"Regional_indicator": "North America and ANZ"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 620,
+"labels": [
+        "Regiao"
+      ],
+"properties": {
+"id_regiao": "7",
+"Regional_indicator": "South Asia"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 621,
+"labels": [
+        "Regiao"
+      ],
+"properties": {
+"id_regiao": "8",
+"Regional_indicator": "Southeast Asia"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 622,
+"labels": [
+        "Regiao"
+      ],
+"properties": {
+"id_regiao": "9",
+"Regional_indicator": "Sub-Saharan Africa"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 623,
+"labels": [
+        "Regiao"
+      ],
+"properties": {
+"id_regiao": "10",
+"Regional_indicator": "Western Europe"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 624,
+"labels": [],
+"properties": {
+
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 625,
+"labels": [],
+"properties": {
+
+      }
+    }
+  }
+]
